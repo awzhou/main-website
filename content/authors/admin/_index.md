@@ -21,7 +21,7 @@ education:
       year: 2024
     - course: High School Diploma
       institution: South Pasadena High School
-      year: 2019
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
