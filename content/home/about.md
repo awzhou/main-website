@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget: biography
+widget_id: About
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+title: About
+active: true
 author: admin
 ---
+I'm a pre-med student concentrating in molecular biology and working towards a certificate in music performance at Princeton University. My non-academic interests and activities include playing viola in a variety of settings, including in the Princeton University Orchestra; working in the Mendel Music Library at Princeton; and swimming very casually.
