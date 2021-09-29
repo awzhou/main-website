@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Albert"
+
+# Optional Google font URL
+google_fonts = "family=EB+Garamond:wght@700&family=Fira+Mono&family=Fira+Sans"
+
+# Font families
+heading_font = "EB Garamond"
+body_font = "Fira Sans"
+nav_font = "Fira Sans"
+mono_font = "Fira Mono"
