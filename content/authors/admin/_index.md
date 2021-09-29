@@ -1,6 +1,6 @@
 ---
 title: Albert Zhou
-role: Princeton University '24
+role: Undergraduate Class of 2024
 bio: I'm a pre-med student concentrating in molecular biology and working
   towards a certificate in music performance at Princeton University. My
   non-academic interests and activities include playing viola in a variety of
