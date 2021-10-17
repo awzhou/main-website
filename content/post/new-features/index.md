@@ -13,4 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-New features, including event listings are coming to this website. Keep an eye out for further updates in the coming days.
+New features, including event listings, are coming to this website. Keep an eye out for further updates in the coming days.
