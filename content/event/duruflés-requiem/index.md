@@ -34,3 +34,7 @@ image:
 url_code: ""
 ---
 The Princeton University Glee Club under the direction of Mariana Corichi Gomez '21 takes on Duruflé's *Requiem*. I will be a member of the orchestra that is performing alongside organist Eric Plutz.
+
+## Program
+
+**MAURICE DURUFLÉ** Requiem, Op. 9 <br> Princeton University Glee Club <br> Princeton undergraduate musicians
