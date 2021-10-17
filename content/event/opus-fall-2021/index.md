@@ -35,6 +35,6 @@ url_code: ""
 Opus, Princeton University's chamber music collective, presents its Fall 2021 concert.
 
 ## Program
-**FAURE** Piano Quartet No. 2 in G Minor, Op. 45
+**GABRIEL FAURÉ** Piano Quartet No. 2 in G Minor, Op. 45
 
 *More program items to follow closer to the event.*
