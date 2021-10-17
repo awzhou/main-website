@@ -4,11 +4,6 @@ title: Example Talk
 event: Wowchemy Conference
 event_url: https://example.org
 
-event_attendance_mode: Virtual
-offers: ""
-event_status: ""
-organizer: Wowchemy
-
 location: Wowchemy HQ
 address:
   street: 450 Serra Mall
