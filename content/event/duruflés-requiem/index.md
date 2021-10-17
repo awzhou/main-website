@@ -1,5 +1,5 @@
 ---
-abstract: '""'
+abstract: ''
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
