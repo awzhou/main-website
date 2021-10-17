@@ -37,5 +37,5 @@ The Princeton University Glee Club under the direction of Mariana Corichi Gomez 
 
 ## Program
 
-### **MAURICE DURUFLÉ** Requiem, Op. 9
+**MAURICE DURUFLÉ** Requiem, Op. 9  
 Princeton University Glee Club <br> Princeton undergraduate musicians
