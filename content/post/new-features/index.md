@@ -3,6 +3,8 @@ title: New Features
 date: 2021-10-17T04:06:10.173Z
 draft: false
 featured: false
+authors:
+  - admin
 tags:
   - website
   - personal
