@@ -6,8 +6,8 @@ summary: The Princeton University Glee Club under the direction of Mariana
   Corichi Gomez '21 takes on Duruflé's *Requiem*.
 title: Duruflé's Requiem
 location: Princeton University Chapel
-date: 2021-11-23T00:30:00
-date_end: 2021-11-23T02:30:00.000Z
+date: 2021-11-22T19:30:00.000
+date_end: 2021-11-22T21:30:00.000
 all_day: false
 event: "Princeton University Glee Club: Duruflé's Requiem"
 event_url: https://music.princeton.edu/events/princeton-university-glee-club-durufl%C3%A9-requiem
