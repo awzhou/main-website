@@ -6,7 +6,7 @@ summary: The Princeton University Orchestra presents a program by David Del Tred
 title: Princeton University Orchestra | 03 December 2021
 location: Richardson Auditorium in Alexander Hall
 date: 2021-12-03T19:30:00.000
-date_end: 2021-11-22T21:30:00.000
+date_end: 2021-12-03T21:30:00.000
 all_day: false
 event: "Princeton University Orchestra | 03 December 2021"
 event_url: https://music.princeton.edu/events/princeton-university-orchestra-13
