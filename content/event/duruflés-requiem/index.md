@@ -1,5 +1,5 @@
 ---
-abstract: f
+abstract: ''
 slides: ""
 url_pdf: ""
 summary: The Princeton University Glee Club under the direction of Mariana
