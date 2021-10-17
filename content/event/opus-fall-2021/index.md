@@ -10,7 +10,7 @@ date_end: 2021-11-22T17:00:00.000
 all_day: false
 event: "Opus Fall 2021 Concert"
 event_url: https://opuschamber.org
-featured: true
+featured: false
 authors: []
 url_video: ""
 url_slides: ""
