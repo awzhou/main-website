@@ -23,7 +23,7 @@ address:
   country: United States
 links:
   - url: https://music.princeton.edu/events/princeton-university-glee-club-durufl%C3%A9-requiem
-    name: More Information
+    name: Tickets
 publishDate: 2021-10-17T03:19:22.733Z
 tags: []
 projects:
