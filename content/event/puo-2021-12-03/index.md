@@ -37,7 +37,6 @@ url_code: ""
 The Princeton University Orchestra conducted by Michael Pratt presents a program by David Del Tredici and Sergei Rachmaninoff.
 
 ## Program
-**DAVID DEL TREDICI** Selections from *Final Alice*
-  **Allison Spann** '20, Soprano
+**DAVID DEL TREDICI** Selections from *Final Alice* <br> **Allison Spann** '20, Soprano
 
 **SERGEI RACHMANINOFF** Symphony No. 2 in E Minor, Op. 27
