@@ -9,10 +9,8 @@ content:
   autolink: true
   form:
     provider: netlify
-    formspree:
-      ? id
     netlify:
-      captcha: false
+      captcha: true
 design:
   columns: "2"
 ---
