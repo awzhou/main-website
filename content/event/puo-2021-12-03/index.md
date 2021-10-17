@@ -34,7 +34,7 @@ image:
   focal_point: Right
 url_code: ""
 ---
-The Princeton University Orchestra conducted by Michael Pratt presents a program by David Del Tredici and Sergei Rachmaninoff.
+The Princeton University Orchestra conducted by Michael Pratt presents a program by David Del Tredici and Sergei Rachmaninoff. This program is also being presented on Friday, 03 December.
 
 ## Program
 **DAVID DEL TREDICI** Selections from *Final Alice* <br> **Allison Spann** '20, Soprano
