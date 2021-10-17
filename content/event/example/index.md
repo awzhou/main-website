@@ -4,9 +4,9 @@ title: Example Talk
 event: Wowchemy Conference
 event_url: https://example.org
 
-eventAttendanceMode: Virtual
+event_attendance_mode: Virtual
 offers: ""
-eventStatus: ""
+event_status: ""
 organizer: Wowchemy
 
 location: Wowchemy HQ
