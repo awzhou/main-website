@@ -26,7 +26,7 @@ links:
 publishDate: 2021-10-17T03:19:22.733Z
 tags: []
 projects:
-  - miscellaneous-performances
+  - opus
 image:
   caption: ""
   focal_point: Right
