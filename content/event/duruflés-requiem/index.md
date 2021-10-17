@@ -15,10 +15,10 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
+  street: Princeton University
+  city: Princeton
+  region: NJ
+  postcode: "08540"
   country: United States
 links:
   - url: https://music.princeton.edu/events/princeton-university-glee-club-durufl%C3%A9-requiem
