@@ -6,7 +6,7 @@ summary: Opus, Princeton University's chamber music collective, presents its Fal
 title: Opus Fall 2021 Concert
 location: Venue TBA
 date: 2021-11-21T15:00:00.000
-date_end: 2021-11-22T17:00:00.000
+date_end: 2021-11-21T17:00:00.000
 all_day: false
 event: "Opus Fall 2021 Concert"
 event_url: https://opuschamber.org
