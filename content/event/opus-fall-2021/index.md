@@ -4,7 +4,7 @@ slides: ""
 url_pdf: ""
 summary: Opus, Princeton University's chamber music collective, presents its Fall 2021 program.
 title: Opus Fall 2021 Concert
-location: Venue TBA
+location: Lee Music Performance and Rehearsal Room at the Lewis Arts Complex
 date: 2021-11-21T15:00:00.000
 date_end: 2021-11-21T17:00:00.000
 all_day: false
