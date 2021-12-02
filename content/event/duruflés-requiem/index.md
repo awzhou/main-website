@@ -11,7 +11,7 @@ date_end: 2021-11-22T21:30:00.000
 all_day: false
 event: "Princeton University Glee Club: Duruflé's Requiem"
 event_url: https://music.princeton.edu/events/princeton-university-glee-club-durufl%C3%A9-requiem
-featured: false
+featured: true
 authors: []
 url_video: ""
 url_slides: ""
