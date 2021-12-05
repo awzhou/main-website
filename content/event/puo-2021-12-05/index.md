@@ -5,8 +5,8 @@ url_pdf: ""
 summary: The Princeton University Orchestra presents a program by David Del Tredici and Sergei Rachmaninoff.
 title: Princeton University Orchestra | 05 December 2021
 location: Richardson Auditorium in Alexander Hall
-date: 2021-12-05T15:00:00.000
-date_end: 2021-12-05T17:00:00.000
+date: 2021-12-05T15:00:00.000-0500
+date_end: 2021-12-05T17:00:00.000-0500
 all_day: false
 event: "Princeton University Orchestra | 05 December 2021"
 event_url: https://music.princeton.edu/events/princeton-university-orchestra-13
