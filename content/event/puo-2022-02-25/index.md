@@ -5,7 +5,7 @@ url_pdf: ""
 summary: The Princeton University Orchestra presents a program featuring students in works by Bartok, Brahms, Khachaturian, and Mozart.
 title: Princeton University Orchestra | 25 February 2022
 location: Richardson Auditorium in Alexander Hall
-date: 2022-02-25T19:00:30.000-0500
+date: 2022-02-25T19:30:00.000-0500
 date_end: 2022-02-25T21:30:00.000-0500
 all_day: false
 event: "Princeton University Orchestra | 25 February 2022"
