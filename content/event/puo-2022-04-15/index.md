@@ -2,7 +2,7 @@
 abstract: ''
 slides: ""
 url_pdf: ""
-summary: The Princeton University Orchestra presents a program featuring students in works by Bartok, Brahms, Khachaturian, and Mozart.
+summary: The Princeton University Orchestra presents a concert.
 title: Princeton University Orchestra | 15 April 2022
 location: Richardson Auditorium in Alexander Hall
 date: 2022-04-15T19:30:00.000-0500
