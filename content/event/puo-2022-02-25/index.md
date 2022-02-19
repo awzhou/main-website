@@ -37,4 +37,14 @@ url_code: ""
 The Princeton University Orchestra presents a program featuring students in works by Bartok, Brahms, Khachaturian, and Mozart. This program is also being presented on Saturday, 26 February.
 
 ## Program
-To be announced.
+**JOHANNES BRAHMS** Tragic Overture
+*Elijah Shina '22, Conductor*
+
+**ARAM KHACHATURIAN** Adagio Pas de deux from *Spartacus*
+*Montagu James '22, Conductor*
+
+**WOLFGANG AMADEUS MOZART** Concert aria “Vorrei spiegarvi, oh Dio”
+*Marley Jacobson '22, Soprano*
+
+**BÉLA BARTÓK** Viola Concerto
+*Andrew Jung '25, Viola*
