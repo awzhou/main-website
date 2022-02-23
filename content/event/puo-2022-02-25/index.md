@@ -43,7 +43,7 @@ The Princeton University Orchestra presents a program featuring students in work
 **ARAM KHACHATURIAN** Adagio Pas de deux from *Spartacus* <br>
 *Montagu James '22, Conductor*
 
-***Brief Pause*** <br>
+***~Brief Pause~*** <br>
 
 **JOHANNES BRAHMS** Tragic Overture <br>
 *Elijah Shina '22, Conductor*
