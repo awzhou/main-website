@@ -6,7 +6,7 @@ summary: Opus, Princeton University's chamber music collective, presents its fir
 title: Opus Spring 2022 Concert | 30 April 2022
 location: Taplin Auditorium in Fine Hall
 date: 2022-04-30T15:00:00.000
-date_end: 2023-04-30T17:00:00.000
+date_end: 2022-04-30T17:00:00.000
 all_day: false
 event: "Opus Spring 2022 Concert | 30 April 2022"
 event_url: https://opuschamber.org
