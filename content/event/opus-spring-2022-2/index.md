@@ -6,7 +6,7 @@ summary: Opus, Princeton University's chamber music collective, presents its sec
 title: Opus Spring 2022 Concert | 01 May 2022
 location: Lee Rehearsal Room in the Lewis Arts Complex
 date: 2022-05-01T15:00:00.000
-date_end: 2023-05-01T17:00:00.000
+date_end: 2022-05-01T17:00:00.000
 all_day: false
 event: "Opus Spring 2022 Concert | 01 May 2022"
 event_url: https://opuschamber.org
