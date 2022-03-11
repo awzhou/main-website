@@ -54,7 +54,7 @@ WALTON Viola Concerto
 
 ***
 
-## Chamber Music - Viola
+## Chamber Music — Viola
 
 BARBER String Quartet
 * II. Adagio
@@ -147,7 +147,7 @@ SCHUMANN String Quartet No. 3 in A Major, Op. 41 No. 3
 
 ***
 
-## Orchestral Music - Viola
+## Orchestral Music — Viola
 
 **Bold text denotes that I played a solo**
 
@@ -227,7 +227,6 @@ PIAZZOLLA Otono Porteño
 
 RACHMANINOV Symphony No. 2 in E Minor, Op. 27
 
-
 RAVEL Bolero
 
 RAVEL Daphnis and Chloe, Suite No. 2
@@ -264,7 +263,7 @@ WAGNER Selections from Götterdämmerung
 
 ***
 
-## Selection of Solo Works - Violin
+## Selection of Solo Works — Violin
 
 BACH Partita No. 2 in D Minor, BWV 1003
 * Excluding the Chaconne
@@ -281,7 +280,7 @@ SAINT-SAENS Violin Concerto No. 3 in B Minor, Op. 61
 
 ***
 
-## Selection of Orchestral Works - Violin
+## Selection of Orchestral Works — Violin
 
 BEETHOVEN Choral Fantasy
 
