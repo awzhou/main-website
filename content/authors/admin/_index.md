@@ -1,11 +1,10 @@
 ---
 title: Albert Zhou
-role: Undergraduate Student
+role: 
 bio: I'm a pre-med student concentrating in molecular biology and working
   towards a certificate in music performance at Princeton University. My
-  non-academic interests and activities include playing viola in a variety of
-  settings, including in the Princeton University Orchestra; working in the
-  Mendel Music Library at Princeton; and swimming very casually.
+  non-academic interests include playing viola, working in the
+  Mendel Music Library at Princeton, and swimming very casually.
 interests: []
 social:
   - icon: envelope
@@ -26,4 +25,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm a pre-med student concentrating in molecular biology and working towards a certificate in music performance at Princeton University. My non-academic interests and activities include playing viola in a variety of settings, including in the Princeton University Orchestra; working in the Mendel Music Library at Princeton; and swimming very casually.
+I'm a pre-med student concentrating in molecular biology and working towards a certificate in music performance at Princeton University. My non-academic interests include playing viola, working in the Mendel Music Library at Princeton, and swimming very casually.
