@@ -330,7 +330,3 @@ WAGNER Prelude to Die Meistersinger von Nurnberg
 WILLIAMS Suite from Star Wars
 
 WILLIAMS Suite from The Force Awakens
-
-***
-
-*Last updated 10 March 2022*
