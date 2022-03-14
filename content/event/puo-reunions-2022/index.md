@@ -6,7 +6,7 @@ summary: The Princeton University Orchestra performs at Princeton University Reu
 title: Princeton University at Reunions
 location: Princeton Stadium
 date: 2022-05-21T20:00:00.000-0400
-date_end: 2022-04-16T21:00:00.000-0500
+date_end: 2022-05-21T21:00:00.000-0400
 all_day: false
 event: "Princeton University Orchestra at Reunions"
 event_url: https://reunions.princeton.edu
