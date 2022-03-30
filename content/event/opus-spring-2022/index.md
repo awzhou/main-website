@@ -2,11 +2,11 @@
 abstract: ''
 slides: ""
 url_pdf: ""
-summary: Opus, Princeton University's chamber music collective, presents its first Spring 2022 program.
-title: Opus Spring 2022 Concert | 30 April 2022
-location: Taplin Auditorium in Fine Hall
-date: 2022-04-30T15:00:00.000
-date_end: 2022-04-30T17:00:00.000
+summary: Opus, Princeton University's chamber music collective, presents its Spring 2022 program.
+title: Opus Spring 2022 Concert | 01 May 2022
+location: McAlpin Rehearsal Hall, Woolworth Center for Musical Studies
+date: 2022-05-01T15:00:00.000
+date_end: 2022-05-01T18:00:00.000
 all_day: false
 event: "Opus Spring 2022 Concert | 30 April 2022"
 event_url: https://opuschamber.org
@@ -32,7 +32,7 @@ image:
   focal_point: Right
 url_code: ""
 ---
-Opus, Princeton University's chamber music collective, presents its first Spring 2022 concert. Another showcase with a different program will occur on 01 May.
+Opus, Princeton University's chamber music collective, presents its Spring 2022 concert.
 
 ## Program
 *To be announced*
