@@ -8,7 +8,7 @@ location: McAlpin Rehearsal Hall, Woolworth Center for Musical Studies
 date: 2022-05-01T15:00:00.000
 date_end: 2022-05-01T18:00:00.000
 all_day: false
-event: "Opus Spring 2022 Concert | 30 April 2022"
+event: "Opus Spring 2022 Concert | 01 May 2022"
 event_url: https://opuschamber.org
 featured: false
 authors: []
