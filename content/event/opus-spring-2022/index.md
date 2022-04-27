@@ -3,7 +3,7 @@ abstract: ''
 slides: ""
 url_pdf: ""
 summary: Opus, Princeton University's chamber music collective, presents its Spring 2022 program.
-title: Opus Spring 2022 Concert | 01 May 2022
+title: Opus Spring 2022 Concert
 location: McAlpin Rehearsal Hall, Woolworth Center for Musical Studies
 date: 2022-05-01T15:00:00.000
 date_end: 2022-05-01T18:00:00.000
