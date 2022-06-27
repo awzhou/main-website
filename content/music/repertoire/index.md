@@ -52,6 +52,8 @@ REGER Suite for Solo Viola No. 2 in D Major, Op. 131d
 
 SCHUBERT Sonata in A Minor “Arpeggione”, D. 821
 
+SCHUMANN Märchenbilder, Op. 113
+
 WALTON Viola Concerto
 
 ***
@@ -88,8 +90,13 @@ BEETHOVEN String Trio in C Minor, Op. 9 No. 3
 BEETHOVEN String Trio in E-flat Major, Op. 3
 * I. Allegro con brio
 
+BRAHMS String Quartet No. 1 in C Minor, Op. 51 No. 1
+* I. Allegro
+
 BRAHMS String Quartet No. 2 in A Minor, Op. 51 No. 2
 * I. Allegro non troppo
+
+BRAHMS String Sextet No. 2 in G Major, Op. 36
 
 DOHNANYI Serenade for String Trio in C Major, Op. 10
 * I. Marcia: Allegro
@@ -163,15 +170,17 @@ BATES Devil’s Radio
 
 BEETHOVEN Romance for Violin and Orchestra No. 2 in F Major, Op. 50
 
-BERLIOZ Overture to Benvenuto Cellini
+BERLIOZ Overture to *Benvenuto Cellini*
 
 BERLIOZ Symphonie Fantastique
 
 BERNSTEIN Divertimento
 
-BERNSTEIN Make Our Garden Grow from Candide
+BERNSTEIN Make Our Garden Grow from *Candide*
 
-BOLCOM The New York Lights from A View from the Bridge
+BERNSTEIN Symphonic Dances from *Westside Story*
+
+BOLCOM The New York Lights from *A View from the Bridge*
 
 BRAHMS Symphony No. 2
 
@@ -179,7 +188,12 @@ BRAHMS Symphony No. 4
 
 BRAHMS Tragic Overture, Op. 81
 
-COPLAND Suite from Appalachian Spring
+BRAHMS Violin Concerto
+* III. Allegro giocoso, ma non troppo vivace — Poco piu presto
+
+CHAVEZ Sinfonia India
+
+COPLAND Suite from *Appalachian Spring*
 
 COPLAND El Salón México
 
@@ -193,9 +207,13 @@ DVORAK Legend No. 6
 
 DVORAK Romance for Violin and Orchestra
 
+DVORAK Selections from the Slavonic Dances
+
 ELSAFFAR Cornu Luminus
 
 FRANK Concertino Cusqueno
+
+GRANT STILL Darker America
 
 HOLMÈS Andromède
 
@@ -217,9 +235,9 @@ MOZART Concerto for Violin No. 3 in G Major
 MOZART Die Zauberflöte
 * No. 3 Aria: Dies Bildnis ist bezaubernd schon
 
-MOZART Il mio tesoro from Don Giovanni
+MOZART Il mio tesoro from *Don Giovanni*
 
-MOZART Overture to Abduction from the Seraglio
+MOZART Overture to *Abduction from the Seraglio*
 
 MOZART Symphony No. 35 “Haffner”
 
@@ -261,7 +279,9 @@ TCHAIKOVSKY Symphony No. 5 in E Minor
 
 VIVALDI Autumn
 
-WAGNER Selections from Götterdämmerung
+WAGNER Prelude to Act III of *Lohengrin*
+
+WAGNER Selections from *Götterdämmerung*
 
 ***
 
@@ -286,7 +306,7 @@ SAINT-SAENS Violin Concerto No. 3 in B Minor, Op. 61
 
 BEETHOVEN Choral Fantasy
 
-BEETHOVEN Overture to Egmont
+BEETHOVEN Overture to *Egmont*
 
 BORODIN Prince Igor
 * 8. Dance of the Polovtsian Maidens
@@ -314,9 +334,9 @@ RIMSKY-KORSAKOV Russian Easter Overture
 
 RIMSKY-KORSAKOV Scheherazade
 
-ROSSINI Overture to Il Signor Bruschino
+ROSSINI Overture to *Il Signor Bruschino*
 
-SAINT-SAENS Danse Bacchanale from Samson and Delilah
+SAINT-SAENS Danse Bacchanale from *Samson and Delilah*
 
 STRAVINSKY Firebird Suite (1919 version)
 
@@ -324,10 +344,10 @@ TCHAIKOVSKY Marche Solennelle (Festival Coronation March)
 
 TCHAIKOVSKY Nutcracker Suite
 
-VERDI Gran Finale II from Aida
+VERDI Gran Finale II from *Aida*
 
-WAGNER Prelude to Die Meistersinger von Nurnberg
+WAGNER Prelude to *Die Meistersinger von Nurnberg*
 
-WILLIAMS Suite from Star Wars
+WILLIAMS Suite from *Star Wars*
 
-WILLIAMS Suite from The Force Awakens
+WILLIAMS Suite from *The Force Awakens*
