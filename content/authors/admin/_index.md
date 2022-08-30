@@ -12,7 +12,7 @@ social:
     link: /#contact
   - icon: file-user
     icon_pack: fas
-    link:
+    link: /uploads/Repertoire List.pdf
 organizations:
   - name: Princeton University
     url: https://www.princeton.edu/
