@@ -10,11 +10,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: linkedin-in
-    icon_pack: fas
+  - icon: linkedin
+    icon_pack: fab
     link: https://www.linkedin.com
   - icon: instagram
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.instagram.com/albertwzhou
   - icon: download
     icon_pack: fas
