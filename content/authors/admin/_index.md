@@ -10,7 +10,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: file-user
+  - icon: download
     icon_pack: fas
     link: /uploads/Repertoire List.pdf
 organizations:
