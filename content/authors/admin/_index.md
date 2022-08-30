@@ -5,12 +5,14 @@ bio: I'm a pre-med student concentrating in molecular biology and working
   towards a certificate in music performance at Princeton University. My
   non-academic interests include playing viola, working in the
   Mendel Music Library at Princeton, and daydreaming.
+  
+  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Albert Zhou Website.pdf" "newtab" >}}resumé{{< /staticref >}}.
 interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: download
+  - icon: file
     icon_pack: fas
     link: /uploads/Repertoire List.pdf
 organizations:
