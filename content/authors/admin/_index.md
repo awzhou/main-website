@@ -14,7 +14,7 @@ social:
     link: /#contact
   - icon: file
     icon_pack: fas
-    link: /uploads/Repertoire List.pdf
+    link: /uploads/Albert Zhou Website.pdf
 organizations:
   - name: Princeton University
     url: https://www.princeton.edu/
