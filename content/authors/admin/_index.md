@@ -10,7 +10,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: paper
+  - icon: file-user
     icon_pack: fas
     link:
 organizations:
@@ -21,7 +21,7 @@ education:
     - course: Bachelor of Arts in Molecular Biology
       institution: Princeton University
       year: 2024
-    - course: Study Abroad for Viola Performance
+    - course: Semester Abroad Studying Viola Performance
       institution: Royal College of Music, London
       year: Fall 2022
     - course: High School Diploma
