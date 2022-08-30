@@ -10,15 +10,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: download
-    icon_pack: fas
-    link: /uploads/Albert Zhou Website.pdf
   - icon: linkedin-in
     icon_pack: fas
     link: https://www.linkedin.com
   - icon: instagram
     icon_pack: fas
     link: https://www.instagram.com/albertwzhou
+  - icon: download
+    icon_pack: fas
+    link: /uploads/Albert Zhou Website.pdf
 organizations:
   - name: Princeton University
     url: https://www.princeton.edu/
