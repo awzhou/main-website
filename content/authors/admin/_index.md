@@ -15,7 +15,7 @@ social:
     link: /uploads/Albert Zhou Website.pdf
   - icon: linkedin
     icon_pack: fas
-    link: 
+    link: https://www.linkedin.com
   - icon: instagram
     icon_pack: fas
     link: https://www.instagram.com/albertwzhou
