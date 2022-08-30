@@ -12,7 +12,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: file
+  - icon: download
     icon_pack: fas
     link: /uploads/Albert Zhou Website.pdf
 organizations:
