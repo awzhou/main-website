@@ -9,7 +9,8 @@ authors:
   - admin
 lastmod: 2022-09-14T21:14:27.899+0100
 tags:
-  - london, music
+  - london
+  - music
 categories: []
 projects: []
 image:
