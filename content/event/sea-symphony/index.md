@@ -2,13 +2,13 @@
 abstract: ''
 slides: ""
 url_pdf: ""
-summary: The RCM Symphony and Chorus conducted by Adrian Partington presents Vaughn Williams' *Sea Symphony* in honour of the 150th anniversary of his birth.
-title: Vaughn Williams' *A Sea Symphony*
+summary: The RCM Symphony and Chorus conducted by Adrian Partington presents Vaughan Williams' *Sea Symphony* in honour of the 150th anniversary of his birth.
+title: Vaughan Williams' A Sea Symphony
 location: Amaryllis Fleming Concert Hall, Royal College of Music
 date: 2022-10-27T19:30:00.000+0100
 date_end: 2022-10-27T21:30:00.000+0100
 all_day: false
-event: "Vaughn Williams' *A Sea Symphony*"
+event: "Vaughan Williams' A Sea Symphony"
 event_url: https://www.rcm.ac.uk/events/details/?id=2323854
 featured: false
 authors: []
@@ -32,7 +32,7 @@ image:
   focal_point: Right
 url_code: ""
 ---
-To celebrate the 150th anniversary of Ralph Vaughn Williams' birth, the Royal College of Music is presenting his *Sea Symphony*. The RCM Symphony conducted by Adrian Partington is joined by the RCM Chorus, which consists of vocalists, non-orchestral instrumentalists, and new students.
+To celebrate the 150th anniversary of Ralph Vaughan Williams' birth, the Royal College of Music is presenting his *Sea Symphony*. The RCM Symphony conducted by Adrian Partington is joined by the RCM Chorus, which consists of vocalists, non-orchestral instrumentalists, and new students.
 
 ## Program
 **Adrian Partington** conductor <br>
@@ -41,4 +41,4 @@ To celebrate the 150th anniversary of Ralph Vaughn Williams' birth, the Royal Co
 **Mark Biggins** chorus director <br> <br>
 
 **LISZT** Piano Concerto no. 2 in A minor S 125 <br>
-**VAUGHN WILLIAMS** A Sea Symphony
+**VAUGHAN WILLIAMS** A Sea Symphony
