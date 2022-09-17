@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Recent Posts
-subtitle: {{< staticref "post/" "sametab" >}}view all posts{{< /staticref >}}
+subtitle: {{< relref "/post" >}}view all posts{{< /staticref >}}
 
 content:
   # Page type to display. E.g. post, talk, publication...
