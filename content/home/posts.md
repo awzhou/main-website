@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Recent Posts
-subtitle: [view all posts]({{< relref "/post" >}})
+subtitle: [view all posts](https://www.albertwzhou.com/post)
 
 content:
   # Page type to display. E.g. post, talk, publication...
