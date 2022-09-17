@@ -36,7 +36,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm a pre-med student concentrating in molecular biology and working towards a certificate in music performance at Princeton University. My non-academic interests include playing viola, working in the Mendel Music Library at Princeton, and finding yet another hyperfixation.
+I'm a pre-med student concentrating in molecular biology and working towards a certificate in music performance at Princeton University. My non-academic interests include playing viola, anything pertaining to libraries, and daydreaming about my latest hyperfixation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Albert Zhou Website.pdf" "newtab" >}}résumé{{< /staticref >}}.
 
