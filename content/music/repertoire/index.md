@@ -137,22 +137,22 @@ MENDELSSOHN String Quartet in F Minor, Op. 80
 PROKOFIEV String Quartet No. 2 in F Major, Op. 92
 * I. Allegro sostenuto
 
+SCHUBERT String Quartet No. 14 in D Minor, D. 810 “Death and the Maiden”
+* I. Allegro
+
 SCHUBERT String Quintet in C Major, D. 956
 
 SCHUBERT String Trio in B-flat Major, D. 581
 * I. Allegro moderato
 * II. Andante
 
+SCHUMANN String Quartet No. 3 in A Major, Op. 41 No. 3
+* III. Adagio molto
+
 SHOSTAKOVICH String Quartet No. 3 in F Major, Op. 73
 * I. Allegretto
 
 SHOSTAKOVICH String Quartet No. 7 in F-sharp Minor, op. 108
-
-SCHUBERT String Quartet No. 14 in D Minor, D. 810 “Death and the Maiden”
-* I. Allegro
-
-SCHUMANN String Quartet No. 3 in A Major, Op. 41 No. 3
-* III. Adagio molto
 
 ***
 
