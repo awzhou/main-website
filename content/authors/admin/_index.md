@@ -1,5 +1,5 @@
 ---
-title: Albert W. Zhou
+title: Albert Zhou
 role: 
 bio: I'm a pre-med student concentrating in molecular biology and working
   towards a certificate in music performance at Princeton University. My
