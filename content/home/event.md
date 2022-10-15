@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 'Events'
-subtitle:
+title: 'Upcoming Events'
+subtitle: [View all events]({{< relref "/event" >}})
 
 content:
   # Page type to display. E.g. post, event, publication...
