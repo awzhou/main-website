@@ -22,7 +22,7 @@ address:
   country: United Kingdom
 links:
   - url: https://www.rcm.ac.uk/events/details/?id=2323854
-    name: RCM Event Listing
+    name: Tickets
 publishDate: 2022-09-14T23:00:22.733+0100
 tags: []
 projects:
