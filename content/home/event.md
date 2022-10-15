@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: 'Upcoming Events'
-subtitle: [View all events]({{< relref "/event" >}})
+subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
