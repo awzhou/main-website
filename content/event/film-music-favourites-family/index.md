@@ -35,5 +35,5 @@ url_code: ""
 The RCM Philharmonic explores favourites from the film music repertoire in a family-friendly concert.
 
 ## Program
-**BMichal Oren** and **Alex Mackinder** conductors <br>
+**Michal Oren** and **Alex Mackinder** conductors <br>
 **RCM Philharmonic**
