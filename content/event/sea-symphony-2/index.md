@@ -30,7 +30,7 @@ projects:
 image:
   caption: ""
   focal_point: Right
-url_code: ""
+url_code: "vaughan-williams-a-sea-symphony-2"
 ---
 To celebrate the 150th anniversary of Ralph Vaughan Williams' birth, the Royal College of Music is presenting his *Sea Symphony*. The RCM Symphony conducted by Adrian Partington is joined by the RCM Chorus, which consists of vocalists, non-orchestral instrumentalists, and new students.
 
