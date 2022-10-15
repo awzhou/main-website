@@ -7,6 +7,17 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Events - Sub
+    identifier: events
+    weight: 20
+  - name: Upcoming Events
+    parent: events
+    url: '#event'
+    weight: 10
+  - name: All Events
+    parent: events
+    url: 'event'
+    weight: 20
   - name: Events
     url: '#event'
     weight: 20
