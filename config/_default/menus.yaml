@@ -8,13 +8,8 @@ main:
     url: '#about'
     weight: 10
   - name: Events
-    identifer: events
     url: '#event'
     weight: 20
-  - name: Past Events
-    parent: events
-    url: 'event'
-    weight: 10
   - name: Posts
     url: '#posts'
     weight: 30
