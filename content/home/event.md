@@ -39,3 +39,4 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+[View past events]({{< relref "/event" >}})
