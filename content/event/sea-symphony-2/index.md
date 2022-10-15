@@ -23,7 +23,7 @@ address:
 links:
   - url: https://www.rcm.ac.uk/events/details/?id=2323853
     name: Tickets and Live Stream
-publishDate:
+publishDate: 2022-10-15T12:30:00.000+0100
 tags: []
 projects:
   - rcm
