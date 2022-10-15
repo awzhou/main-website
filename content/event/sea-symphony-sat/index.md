@@ -3,12 +3,12 @@ abstract: ''
 slides: ""
 url_pdf: ""
 summary: The RCM Symphony and Chorus conducted by Adrian Partington presents Vaughan Williams' *Sea Symphony* in honour of the 150th anniversary of his birth.
-title: Vaughan Williams' A Sea Symphony
+title: Vaughan Williams' A Sea Symphony (with Live Stream)
 location: Amaryllis Fleming Concert Hall, Royal College of Music
 date: 2022-10-28T19:30:00.000+0100
 date_end: 2022-10-28T21:30:00.000+0100
 all_day: false
-event: "Vaughan Williams' A Sea Symphony"
+event: "Vaughan Williams' A Sea Symphony (with Live Stream)"
 event_url: https://www.rcm.ac.uk/events/details/?id=2323853
 featured: false
 authors: []
@@ -23,7 +23,6 @@ address:
 links:
   - url: https://www.rcm.ac.uk/events/details/?id=2323853
     name: Tickets and Live Stream
-publishDate:
 tags: []
 projects:
   - rcm
