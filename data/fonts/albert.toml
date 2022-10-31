@@ -2,7 +2,7 @@
 name = "Albert"
 
 # Optional Google font URL
-google_fonts = "family=EB+Garamond:wght@700&family=Jost&family=Fira+Mono&family=Montserrat:wght@400;700?family=Bodoni+Moda:opsz@6..96"
+google_fonts = "family=EB+Garamond:wght@700&family=Jost&family=Fira+Mono&family=Montserrat:wght@400;700?family=Bodoni+Moda"
 
 # Font families
 heading_font = "Bodoni Moda"
