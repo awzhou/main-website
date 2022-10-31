@@ -22,7 +22,7 @@ address:
   country: United Kingdom
 links:
   - url: 
-    name: 
+    name: No tickets required
 publishDate: 2022-10-15T12:01:52.733+0100
 tags: []
 projects:
@@ -43,8 +43,8 @@ Chamber music ensembles from the Royal College of Music perform at St Mary Abbot
 **Laura Armstrong** cello <br><br>
 
 **DVORAK** Piano Quintet in A major op 81
-* I. Allegro, ma non tanto
-* II. Dumka. Andante con moto
+| I. Allegro, ma non tanto
+| II. Dumka. Andante con moto
 **Quintett 1841** <br>
 **Yesong Jung** piano <br>
 **Robert Lokhov** violin <br>
