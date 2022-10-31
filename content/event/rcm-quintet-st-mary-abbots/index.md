@@ -5,7 +5,7 @@ url_pdf: ""
 summary: Chamber music ensembles from the Royal College of Music perform at St Mary Abbots Church
 title: "RCM at St Mary Abbots"
 location: St Mary Abbots Church, London
-date: 2022-11-25T13:05:00.000+0000
+date: 2022-11-25T13:00:00.000+0000
 date_end: 2022-11-03T14:15:00.000+0000
 all_day: false
 event: "RCM at St Mary Abbots"
