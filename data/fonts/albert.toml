@@ -2,10 +2,10 @@
 name = "Albert"
 
 # Optional Google font URL
-google_fonts = "family=EB+Garamond:wght@700&family=Fira+Mono&family=Montserrat:wght@400;700"
+google_fonts = "family=EB+Garamond:wght@700family=Jost&family=Fira+Mono&family=Montserrat:wght@400;700"
 
 # Font families
 heading_font = "EB Garamond"
-body_font = "Montserrat"
-nav_font = "Montserrat"
+body_font = "Jost"
+nav_font = "Jost"
 mono_font = "Fira Mono"
