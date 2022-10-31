@@ -5,8 +5,8 @@ url_pdf: ""
 summary: Prince Consort Professor of Conducting Martyn Brabbins leads the RCM Symphony Orchestra in a programme featuring works by Weir, Shostakovich, and an RCM composition student.
 title: RCM Symphony Orchestra and Martyn Brabbins
 location: Amaryllis Fleming Concert Hall, Royal College of Music
-date: 2022-11-17T19:30:00.000+0100
-date_end: 2022-11-17T21:30:00.000+0100
+date: 2022-11-17T19:30:00.000+0000
+date_end: 2022-11-17T21:30:00.000+0000
 all_day: false
 event: "RCM Symphony Orchestra and Martyn Brabbins"
 event_url: https://www.rcm.ac.uk/events/details/?id=2402942
