@@ -44,7 +44,7 @@ Chamber music ensembles from the Royal College of Music perform at St Mary Abbot
 
 **DVORAK** Piano Quintet in A major op 81 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Allegro, ma non tanto <br>
-&nbsp;&nbsp;&nbsp;&nbsp;II. Dumka. Andante con moto
+&nbsp;&nbsp;&nbsp;&nbsp;II. Dumka. Andante con moto <br>
 **Quintett 1841** <br>
 **Yesong Jung** piano <br>
 **Robert Lokhov** violin <br>
