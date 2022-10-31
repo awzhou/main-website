@@ -36,9 +36,9 @@ Prince Consort Professor of Conducting Martyn Brabbins leads the RCM Symphony Or
 
 ## Program
 **Martyn Brabbins** conductor <br>
-**Daniel Hogan** conductor* <br>
+**Daniel Hogan** conductor\* <br>
 **RCM Symphony Orchestra** <br> <br>
 
 **JUDITH WEIR** Heroic strokes of the bow <br>
-**ANIAN WIEDNER** Sesquialtera (world premiere)* <br>
+**ANIAN WIEDNER** Sesquialtera (world premiere)\* <br>
 **SHOSTAKOVICH** Symphony no 11 in G minor op 103
