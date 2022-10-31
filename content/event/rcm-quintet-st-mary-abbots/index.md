@@ -2,7 +2,7 @@
 abstract: ''
 slides: ""
 url_pdf: ""
-summary: Chamber music ensembles from the Royal College of Music perform at St Mary Abbots Church
+summary: Chamber music ensembles from the Royal College of Music perform at St Mary Abbots Church.
 title: "RCM at St Mary Abbots"
 location: St Mary Abbots Church, London
 date: 2022-11-25T13:00:00.000+0000
@@ -32,7 +32,7 @@ image:
   focal_point: Right
 url_code: ""
 ---
-Chamber music ensembles from the Royal College of Music perform at St Mary Abbots Church
+Chamber music ensembles from the Royal College of Music perform at St Mary Abbots Church.
 
 ## Program
 **SCHUBERT** String Quintet in C major D 956 <br>
