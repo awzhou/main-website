@@ -40,4 +40,4 @@ I'm a pre-med student concentrating in molecular biology and working towards a c
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Albert Zhou Website.pdf" "newtab" >}}résumé{{< /staticref >}}.
 
-{{< icon name="camera" pack="fas" >}}: Xuefei Gao
+{{< icon name="camera" pack="fas" >}} Xuefei Gao
