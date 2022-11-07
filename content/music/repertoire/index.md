@@ -16,6 +16,8 @@ header:
 
 Download a PDF version of this repertoire list {{% staticref "uploads/Repertoire List.pdf" "newtab" %}}here{{% /staticref %}}.
 
+All works are complete unless noted otherwise.
+
 ## Solo Works — Viola
 
 BACH Cello Suite No. 1 in G Major, BWV 1007
