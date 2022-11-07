@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-Download a PDF version of this repertoire list {{% staticref "uploads/Repertoire List.pdf" %}}here{{% /staticref %}}.
+Download a PDF version of this repertoire list {{% staticref "uploads/Repertoire List.pdf" "newtab" %}}here{{% /staticref %}}.
 
 ## Solo Works — Viola
 
