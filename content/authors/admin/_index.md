@@ -15,6 +15,9 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/albertwzhou
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@albertwzhou
   - icon: download
     icon_pack: fas
     link: /uploads/Albert Zhou Website.pdf
