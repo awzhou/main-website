@@ -5,8 +5,8 @@ url_pdf: ""
 summary: Chamber music ensembles from the Royal College of Music perform at St Mary Abbots Church.
 title: "RCM at St Mary Abbots"
 location: St Mary Abbots Church, London
-date: 2022-11-25T13:00:00.000+0000
-date_end: 2022-11-03T14:15:00.000+0000
+date: 2022-11-25T13:05:00.000+0000
+date_end: 2022-11-25T13:50:00.000+0000
 all_day: false
 event: "RCM at St Mary Abbots"
 event_url: https://www.rcm.ac.uk/
@@ -35,22 +35,24 @@ url_code: ""
 Chamber music ensembles from the Royal College of Music perform at St Mary Abbots Church.
 
 ## Program
-**SCHUBERT** String Quintet in C major D 956 <br>
-**Tom Wilson** violin <br>
-**Julie Piggott** violin <br>
-**Hugo Svensson** viola <br>
-**Jakub Graf** cello <br>
-**Laura Armstrong** cello <br><br>
-
 **DVORAK** Piano Quintet in A major op 81 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Allegro, ma non tanto <br>
 &nbsp;&nbsp;&nbsp;&nbsp;II. Dumka. Andante con moto <br>
-**Quintett 1841** <br>
+**1841 Quintet** <br>
 **Yesong Jung** piano <br>
 **Robert Lokhov** violin <br>
 **Luisa Schwegler** violin <br>
 **Albert Zhou** viola <br>
-**Jakub Graf** cello
+**Jakub Graf** cello <br><br>
+
+**SCHUBERT** String Quintet in C major D 956 <br>
+**Tom Wilson** violin <br>
+**Julie Piggott** violin <br>
+**Elena Accogli** viola <br>
+**Jakub Graf** cello <br>
+**Laura Armstrong** cello
+
+
 
 
 
