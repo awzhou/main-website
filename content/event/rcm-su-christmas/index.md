@@ -21,8 +21,8 @@ address:
   postcode: "SW7 2BS"
   country: United Kingdom
 links:
-  - url: 
-    name: No tickets required
+  - url: rcmsu.com
+    name: Tickets
 publishDate: 2022-10-15T12:01:52.733+0100
 tags: []
 projects:
