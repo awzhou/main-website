@@ -6,7 +6,7 @@ summary: Opus presents a program of film music during Princeton's Wintersession 
 title: Opus at Wintersession | Film Music
 location: TBA
 date: 2023-01-20
-date_end: 2023-01-20
+date_end:
 all_day: true
 event: "Opus at Wintersession | Film Music"
 event_url: 
