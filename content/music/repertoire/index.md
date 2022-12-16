@@ -191,108 +191,108 @@ All works are complete unless noted otherwise.
 
 **BERNSTEIN** Symphonic Dances from *Westside Story*
 
-BOLCOM The New York Lights from *A View from the Bridge*
+**BOLCOM** The New York Lights from *A View from the Bridge*
 
-BRAHMS Symphony No. 2
+**BRAHMS** Symphony No. 2
 
-BRAHMS Symphony No. 4
+**BRAHMS** Symphony No. 4
 
-BRAHMS Tragic Overture, Op. 81
+**BRAHMS** Tragic Overture, Op. 81
 
-BRAHMS Violin Concerto
-* III. Allegro giocoso, ma non troppo vivace — Poco piu presto
+**BRAHMS** Violin Concerto<br>
+&nbsp;&nbsp;&nbsp;&nbsp;III. Allegro giocoso, ma non troppo vivace — Poco piu presto
 
-CHAVEZ Sinfonia India
+**CHAVEZ** Sinfonia India
 
-COPLAND Suite from *Appalachian Spring*
+**COPLAND** Suite from *Appalachian Spring*
 
-COPLAND El Salón México
+**COPLAND** El Salón México
 
-CORDERO Mariandá
+**CORDERO** Mariandá
 
-CLYNE Masquerade
+**CLYNE** Masquerade
 
-DUKAS Sorcerer's Apprentice
+**DUKAS** Sorcerer's Apprentice
 
-DVORAK Legend No. 6
+**DVORAK** Legend No. 6
 
-DVORAK Romance for Violin and Orchestra
+**DVORAK** Romance for Violin and Orchestra
 
-DVORAK Selections from the Slavonic Dances
+**DVORAK** Selections from the Slavonic Dances
 
-ELSAFFAR Cornu Luminus
+**ELSAFFAR** Cornu Luminus
 
-FRANK Concertino Cusqueno
+**FRANK** Concertino Cusqueno
 
-GRANT STILL Darker America
+**GRANT STILL** Darker America
 
-HOLMÈS Andromède
+**HOLMÈS** Andromède
 
-HOLST St. Paul Suite
+**HOLST** St. Paul Suite
 
-KHACHATURIAN Spartacus Suite No. 2
-* I. Adagio of Spartacus and Phrygia
+**KHACHATURIAN** Spartacus Suite No. 2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Adagio of Spartacus and Phrygia
 
-**LINDVEIT Close Up at a Distance**
+**LINDVEIT** Close Up at a Distance \*
 
-LISZT Les Preludes
+**LISZT** Les Preludes
 
-MAHLER Songs of a Wayfarer
+**MAHLER** Songs of a Wayfarer
 
-MONTGOMERY Starburst
+**MONTGOMERY** Starburst
 
-MOZART Concerto for Violin No. 3 in G Major
+**MOZART** Concerto for Violin No. 3 in G Major
 
-MOZART Die Zauberflöte
-* No. 3 Aria: Dies Bildnis ist bezaubernd schon
+**MOZART** Die Zauberflöte<br>
+&nbsp;&nbsp;&nbsp;&nbsp;No. 3 Aria: Dies Bildnis ist bezaubernd schon
 
-MOZART Il mio tesoro from *Don Giovanni*
+**MOZART** Il mio tesoro from *Don Giovanni*
 
-MOZART Overture to *Abduction from the Seraglio*
+**MOZART** Overture to *Abduction from the Seraglio*
 
-MOZART Symphony No. 35 “Haffner”
+**MOZART** Symphony No. 35 “Haffner”
 
-MOZART Symphony No. 38 "Prague"
+**MOZART** Symphony No. 38 "Prague"
 
-PIAZZOLLA Otono Porteño
+**PIAZZOLLA** Otono Porteño
 
-RACHMANINOV Symphony No. 2 in E Minor, Op. 27
+**RACHMANINOV** Symphony No. 2 in E Minor, Op. 27
 
-RAVEL Bolero
+**RAVEL** Bolero
 
-RAVEL Daphnis and Chloe, Suite No. 2
+**RAVEL** Daphnis and Chloe, Suite No. 2
 
-**RESPIGHI Pines of Rome**
+**RESPIGHI++ Pines of Rome \*
 
-RIMSKY-KORSAKOV Scheherezade
+**RIMSKY-KORSAKOV** Scheherezade
 
-SARASATE Carmen Fantasy for Violin and Orchestra
+**SARASATE** Carmen Fantasy for Violin and Orchestra
 
-SCHUBERT Symphony No. 8 in B Minor “Unfinished”
+**SCHUBERT** Symphony No. 8 in B Minor “Unfinished”
 
-SCHUMANN Symphony No. 4
+**SCHUMANN** Symphony No. 4
 
-SHOSTAKOVICH Symphony No. 1
+**SHOSTAKOVICH** Symphony No. 1
 
-SHOSTAKOVICH Symphony No. 11
+**SHOSTAKOVICH** Symphony No. 11
 
-SOWERBY From the Northland Suite
-* III. Burnt Rock Pool
-* IV. The Shining Big-Sea Water
+**SOWERBY** From the Northland Suite<br>
+&nbsp;&nbsp;&nbsp;&nbsp;III. Burnt Rock Pool<br>
+&nbsp;&nbsp;&nbsp;&nbsp;IV. The Shining Big-Sea Water
 
-STRAUSS Till Eulenspiegels lustige Streich
+**STRAUSS** Till Eulenspiegels lustige Streich
 
-STRAVINSKY The Rite of Spring
+**STRAVINSKY** The Rite of Spring
 
-TCHAIKOVSKY Symphony No. 4 in F Major
+**TCHAIKOVSKY** Symphony No. 4 in F Major
 
-TCHAIKOVSKY Symphony No. 5 in E Minor
+**TCHAIKOVSKY** Symphony No. 5 in E Minor
 
-VIVALDI Autumn
+**VIVALDI** Autumn
 
-WAGNER Prelude to Act III of *Lohengrin*
+**WAGNER** Prelude to Act III of *Lohengrin*
 
-WAGNER Selections from *Götterdämmerung*
+**WAGNER** Selections from *Götterdämmerung*
 
 ***
 
