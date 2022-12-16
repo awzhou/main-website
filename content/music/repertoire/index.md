@@ -298,67 +298,67 @@ All works are complete unless noted otherwise.
 
 ## Selection of Solo Works — Violin
 
-BACH Partita No. 2 in D Minor, BWV 1003
-* Excluding the Chaconne
+**BACH** Partita No. 2 in D Minor, BWV 1003<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Excluding the Chaconne
 
-BEETHOVEN Sonata for Violin and Piano No. 7 in C Minor, Op. 30 No. 2
+**BEETHOVEN** Sonata for Violin and Piano No. 7 in C Minor, Op. 30 No. 2
 
-BRUCH Violin Concerto No. 1 in G Minor, Op. 26
+**BRUCH** Violin Concerto No. 1 in G Minor, Op. 26
 
-MENDELSSOHN Violin Concerto in E Minor, Op. 64
+**MENDELSSOHN** Violin Concerto in E Minor, Op. 64
 
-MOZART Violin Concerto No. 5 in A Major, K. 219
+**MOZART** Violin Concerto No. 5 in A Major, K. 219
 
-SAINT-SAENS Violin Concerto No. 3 in B Minor, Op. 61
+**SAINT-SAENS** Violin Concerto No. 3 in B Minor, Op. 61
 
 ***
 
 ## Selection of Orchestral Works — Violin
 
-BEETHOVEN Choral Fantasy
+**BEETHOVEN** Choral Fantasy
 
-BEETHOVEN Overture to *Egmont*
+**BEETHOVEN** Overture to *Egmont*
 
-BORODIN Prince Igor
-* 8. Dance of the Polovtsian Maidens
-* 17. Polovtsian Dances
+**BORODIN** Prince Igor<br>
+&nbsp;&nbsp;&nbsp;&nbsp;8. Dance of the Polovtsian Maidens<br>
+&nbsp;&nbsp;&nbsp;&nbsp;17. Polovtsian Dances
 
-BRAHMS Hungarian Dance No. 1
+**BRAHMS** Hungarian Dance No. 1
 
-DEBUSSY Prelude to “The Afternoon of a Faun”
+**DEBUSSY** Prelude to “The Afternoon of a Faun”
 
-ELGAR Enigma Variations
-* Theme
-* IX. Nimrod
-* XIV. (E.D.U.) Finale.
+**ELGAR** Enigma Variations<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Theme<br>
+&nbsp;&nbsp;&nbsp;&nbsp;IX. Nimrod<br>
+&nbsp;&nbsp;&nbsp;&nbsp;XIV. (E.D.U.) Finale.
 
-HAYDN Symphony No. 104
+**HAYDN** Symphony No. 104
 
-MOZART Requiem
-* Dies Irae
-* Confutatis
-* Lacrimosa
+**MOZART** Requiem<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Dies Irae<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Confutatis<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Lacrimosa
 
-MOZART Symphony No. 40 in G Minor
+**MOZART** Symphony No. 40 in G Minor
 
-RIMSKY-KORSAKOV Russian Easter Overture
+**RIMSKY-KORSAKOV** Russian Easter Overture
 
-RIMSKY-KORSAKOV Scheherazade
+**RIMSKY-KORSAKOV** Scheherazade
 
-ROSSINI Overture to *Il Signor Bruschino*
+**ROSSINI** Overture to *Il Signor Bruschino*
 
-SAINT-SAENS Danse Bacchanale from *Samson and Delilah*
+**SAINT-SAENS** Danse Bacchanale from *Samson and Delilah*
 
-STRAVINSKY Firebird Suite (1919 version)
+**STRAVINSKY** Firebird Suite (1919 version)
 
-TCHAIKOVSKY Marche Solennelle (Festival Coronation March)
+**TCHAIKOVSKY** Marche Solennelle (Festival Coronation March)
 
-TCHAIKOVSKY Nutcracker Suite
+**TCHAIKOVSKY** Nutcracker Suite
 
-VERDI Gran Finale II from *Aida*
+**VERDI** Gran Finale II from *Aida*
 
-WAGNER Prelude to *Die Meistersinger von Nurnberg*
+**WAGNER** Prelude to *Die Meistersinger von Nurnberg*
 
-WILLIAMS Suite from *Star Wars*
+**WILLIAMS** Suite from *Star Wars*
 
-WILLIAMS Suite from *The Force Awakens*
+**WILLIAMS** Suite from *The Force Awakens*
