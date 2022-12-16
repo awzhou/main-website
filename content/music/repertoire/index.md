@@ -20,167 +20,176 @@ All works are complete unless noted otherwise.
 
 ## Solo Works — Viola
 
-BACH Cello Suite No. 1 in G Major, BWV 1007
+**BACH** Cello Suite No. 1 in G Major, BWV 1007
 
-BACH Cello Suite No. 2 in D Minor, BWV 1008
+**BACH** Cello Suite No. 2 in D Minor, BWV 1008
 
-BACH Cello Suite No. 3 in C Major, BWV 1009
+**BACH** Cello Suite No. 3 in C Major, BWV 1009
 
-BACH Cello Suite No. 4 in E-flat Major, BWV 1010
+**BACH** Cello Suite No. 4 in E-flat Major, BWV 1010
 
-BACH Cello Suite No. 6 in D Major, BWV 1012 (Transposed to G Major)
+**BACH** Cello Suite No. 6 in D Major, BWV 1012 (Transposed to G Major)
 
-BRAHMS Viola Sonata in F Minor, Op. 120 No. 1
+**BARTOK** Viola Concerto<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Moderato<br>
+&nbsp;&nbsp;&nbsp;&nbsp;II. Andante religioso
 
-BRAHMS Viola Sonata in E-flat Major, Op. 120 No. 2
+**BRAHMS** Viola Sonata in F Minor, Op. 120 No. 1
 
-BRUCH Romance in F Major, Op. 85
+**BRAHMS** Viola Sonata in E-flat Major, Op. 120 No. 2
 
-CLARKE Viola Sonata
+**BRUCH** Romance in F Major, Op. 85
 
-ENESCU Concertpiece
+**CLARKE** Viola Sonata
 
-HINDEMITH Der Schwanendreher
+**ENESCU** Concertpiece
 
-HINDEMITH Sonata, Op. 25 No. 1
+**HINDEMITH** Der Schwanendreher
 
-HOFFMEISTER Viola Concerto in D Major
+**HINDEMITH** Sonata, Op. 25 No. 1
 
-REGER Suite for Solo Viola No. 1 in G Minor, Op. 131d
-* I. Molto sostenuto
-* IV. Molto vivace
+**HOFFMEISTER** Viola Concerto in D Major
 
-REGER Suite for Solo Viola No. 2 in D Major, Op. 131d
+**REGER** Suite for Solo Viola No. 1 in G Minor, Op. 131d<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Molto sostenuto<br>
+&nbsp;&nbsp;&nbsp;&nbsp;IV. Molto vivace
 
-SCHUBERT Sonata in A Minor “Arpeggione”, D. 821
+**REGER** Suite for Solo Viola No. 2 in D Major, Op. 131d
 
-SCHUMANN Märchenbilder, Op. 113
+**SCHUBERT** Sonata in A Minor “Arpeggione”, D. 821
 
-WALTON Viola Concerto
+**SCHUMANN** Märchenbilder, Op. 113
+
+**WALTON** Viola Concerto
 
 ***
 
 ## Chamber Music — Viola
 
-BARBER String Quartet
-* II. Adagio
+**BARBER** String Quartet<br>
+&nbsp;&nbsp;&nbsp;&nbsp;II. Adagio
 
-BEETHOVEN String Quartet in F Major, Op. 18 No. 1
+**BEETHOVEN** String Quartet in F Major, Op. 18 No. 1
 
-BEETHOVEN String Quartet in G Major, Op. 18 No. 2
+**BEETHOVEN** String Quartet in G Major, Op. 18 No. 2
 
-BEETHOVEN String Quartet in D Major, Op. 18 No. 3
+**BEETHOVEN** String Quartet in D Major, Op. 18 No. 3
 
-BEETHOVEN String Quartet in C Minor, Op. 18 No. 4
+**BEETHOVEN** String Quartet in C Minor, Op. 18 No. 4
 
-BEETHOVEN String Quartet in A Major, Op. 18 No. 5
+**BEETHOVEN** String Quartet in A Major, Op. 18 No. 5
 
-BEETHOVEN String Quartet in B-flat Major, Op. 18 No. 6
+**BEETHOVEN** String Quartet in B-flat Major, Op. 18 No. 6
 
-BEETHOVEN String Quartet in F Major, Op. 59 No. 1
-* IV. Theme russe. Allegro
+**BEETHOVEN** String Quartet in F Major, Op. 59 No. 1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;IV. Theme russe. Allegro
 
-BEETHOVEN String Quartet in E-flat Major, Op. 74 "Harp"
-* I.  Poco adagio – Allegro
+**BEETHOVEN** String Quartet in E-flat Major, Op. 74 "Harp"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I.  Poco adagio – Allegro
 
-BEETHOVEN String Quartet in F Minor, Op. 95 "Serioso"
-* I.  Allegro con brio
+**BEETHOVEN** String Quartet in F Minor, Op. 95 "Serioso"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I.  Allegro con brio
 
-BEETHOVEN String Trio in C Minor, Op. 9 No. 3
-* I. Allegro con spirito
+**BEETHOVEN** String Trio in C Minor, Op. 9 No. 3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro con spirito
 
-BEETHOVEN String Trio in E-flat Major, Op. 3
-* I. Allegro con brio
+**BEETHOVEN** String Trio in E-flat Major, Op. 3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro con brio
 
-BRAHMS String Quartet No. 1 in C Minor, Op. 51 No. 1
-* I. Allegro
+**BRAHMS** String Quartet No. 1 in C Minor, Op. 51 No. 1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro
 
-BRAHMS String Quartet No. 2 in A Minor, Op. 51 No. 2
-* I. Allegro non troppo
+**BRAHMS** String Quartet No. 2 in A Minor, Op. 51 No. 2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro non troppo
 
-BRAHMS String Sextet No. 2 in G Major, Op. 36
+**BRAHMS** String Sextet No. 2 in G Major, Op. 36
 
-DOHNANYI Serenade for String Trio in C Major, Op. 10
-* I. Marcia: Allegro
-* III. Scherzo: Vivace 
-* V. Rondo (Finale): Allegro vivace
+**DOHNANYI** Serenade for String Trio in C Major, Op. 10<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Marcia: Allegro<br>
+&nbsp;&nbsp;&nbsp;&nbsp;III. Scherzo: Vivace <br>
+&nbsp;&nbsp;&nbsp;&nbsp;V. Rondo (Finale): Allegro vivace<br>
 
-DVORAK String Quartet No. 10, Op. 51
-* II. Dumky. (Elegia) Andante con moto
+**DVORAK** Piano Quintet No. 2 in A Major, Op. 81<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro ma non tanto<br>
+&nbsp;&nbsp;&nbsp;&nbsp;II. Dumka. Andante con moto
 
-DVORAK String Quintet in E-flat Major, Op. 97
-* I. Allegro non tanto
+**DVORAK** String Quartet No. 10, Op. 51<br>
+&nbsp;&nbsp;&nbsp;&nbsp;II. Dumky. (Elegia) Andante con moto
 
-FAURE Piano Quartet No. 2 in G Minor, Op. 45
-* I. Allegro molto moderato
+**DVORAK** String Quintet in E-flat Major, Op. 97<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro non tanto
 
-HAYDN String Quartet in C Major, Op. 20 No. 2
-* I. Moderato
+**FAURE** Piano Quartet No. 2 in G Minor, Op. 45<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro molto moderato
 
-HAYDN String Quartet in B-flat Major, Op. 55 No. 3
-* I. Vivace assai
+**HAYDN** String Quartet in C Major, Op. 20 No. 2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Moderato
 
-HAYDN String Quartet in G Minor, Op. 74 No. 3 "Rider"
-* IV. Finale. Allegro con brio
+**HAYDN** String Quartet in B-flat Major, Op. 55 No. 3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Vivace assai
 
-HAYDN String Quartet in B-flat Major, Op. 76 No. 4 "Sunrise"
+**HAYDN** String Quartet in G Minor, Op. 74 No. 3 "Rider"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;IV. Finale. Allegro con brio
 
-MENDELSSOHN String Octet in E-flat Major, Op. 20
-* I. Allegro moderato ma con fuoco
+**HAYDN** String Quartet in B-flat Major, Op. 76 No. 4 "Sunrise"
 
-MENDELSSOHN String Quartet in A Minor, Op. 13
+**MENDELSSOHN** String Octet in E-flat Major, Op. 20<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro moderato ma con fuoco
 
-MENDELSSOHN String Quartet in D Major, Op. 44 No. 1
-* I. Molto allegro vivace
+**MENDELSSOHN** String Quartet in A Minor, Op. 13
 
-MENDELSSOHN String Quartet in F Minor, Op. 80
-* I. Allegro vivace assai
+**MENDELSSOHN** String Quartet in D Major, Op. 44 No. 1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Molto allegro vivace
 
-PROKOFIEV String Quartet No. 2 in F Major, Op. 92
-* I. Allegro sostenuto
+**MENDELSSOHN** String Quartet in F Minor, Op. 80<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro vivace assai
 
-SCHUBERT String Quartet No. 14 in D Minor, D. 810 “Death and the Maiden”
-* I. Allegro
+**PROKOFIEV** String Quartet No. 2 in F Major, Op. 92<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro sostenuto
 
-SCHUBERT String Quintet in C Major, D. 956
+**SCHUBERT** String Quartet No. 14 in D Minor, D. 810 “Death and the Maiden”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro<br>
+&nbsp;&nbsp;&nbsp;&nbsp;II. Andante con moto
 
-SCHUBERT String Trio in B-flat Major, D. 581
-* I. Allegro moderato
-* II. Andante
+**SCHUBERT** String Quintet in C Major, D. 956
 
-SCHUMANN String Quartet No. 3 in A Major, Op. 41 No. 3
-* III. Adagio molto
+**SCHUBERT** String Trio in B-flat Major, D. 581<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro moderato<br>
+&nbsp;&nbsp;&nbsp;&nbsp;II. Andante
 
-SHOSTAKOVICH String Quartet No. 3 in F Major, Op. 73
-* I. Allegretto
+**SCHUMANN** String Quartet No. 3 in A Major, Op. 41 No. 3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;III. Adagio molto
 
-SHOSTAKOVICH String Quartet No. 7 in F-sharp Minor, op. 108
+**SHOSTAKOVICH** String Quartet No. 3 in F Major, Op. 73<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegretto
+
+**SHOSTAKOVICH** String Quartet No. 7 in F-sharp Minor, op. 108
 
 ***
 
 ## Orchestral Music — Viola
 
-**Bold text denotes that I played a solo**
+**An asterisk (\*) indicates a solo**
 
-BARBER Adagio for Strings
+**BARBER** Adagio for Strings
 
-BARBER Concerto for Violin and Orchestra
+**BARBER** Concerto for Violin and Orchestra
 
-BARBER Knoxville: Summer of 1915
+**BARBER** Knoxville: Summer of 1915
 
-BATES Devil’s Radio
+**BATES** Devil’s Radio
 
-BEETHOVEN Romance for Violin and Orchestra No. 2 in F Major, Op. 50
+**BEETHOVEN** Romance for Violin and Orchestra No. 2 in F Major, Op. 50
 
-BERLIOZ Overture to *Benvenuto Cellini*
+**BERLIOZ** Overture to *Benvenuto Cellini*
 
-BERLIOZ Symphonie Fantastique
+**BERLIOZ** Symphonie Fantastique
 
-BERNSTEIN Divertimento
+**BERNSTEIN** Divertimento
 
-BERNSTEIN Make Our Garden Grow from *Candide*
+**BERNSTEIN** Make Our Garden Grow from *Candide*
 
-BERNSTEIN Symphonic Dances from *Westside Story*
+**BERNSTEIN** Symphonic Dances from *Westside Story*
 
 BOLCOM The New York Lights from *A View from the Bridge*
 
