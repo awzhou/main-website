@@ -275,7 +275,7 @@ All works are complete unless noted otherwise.
 
 **RAVEL** Daphnis and Chloe, Suite No. 2
 
-**RESPIGHI++ Pines of Rome \*
+**RESPIGHI** Pines of Rome \*
 
 **RIMSKY-KORSAKOV** Scheherezade
 
