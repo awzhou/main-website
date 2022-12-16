@@ -185,6 +185,8 @@ All works are complete unless noted otherwise.
 
 **BERLIOZ** Symphonie Fantastique
 
+**E. BERNSTEIN** *The Ten Commandments* Suite
+
 **BERNSTEIN** Divertimento
 
 **BERNSTEIN** Make Our Garden Grow from *Candide*
@@ -224,7 +226,14 @@ All works are complete unless noted otherwise.
 
 **FRANK** Concertino Cusqueno
 
+**GOLDSMITH** Main Title from *Star Trek: The Motion Picture*
+
 **GRANT STILL** Darker America
+
+**HERRMANN** *Citizen Kane* Overture
+
+**HERRMANN** *Vertigo* Suite<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Prelude
 
 **HOLMÈS** Andromède
 
@@ -232,6 +241,8 @@ All works are complete unless noted otherwise.
 
 **KHACHATURIAN** Spartacus Suite No. 2<br>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Adagio of Spartacus and Phrygia
+
+**KORNGOLD** *Kings Row* Prelude
 
 **LINDVEIT** Close Up at a Distance \*
 
@@ -253,6 +264,8 @@ All works are complete unless noted otherwise.
 **MOZART** Symphony No. 35 “Haffner”
 
 **MOZART** Symphony No. 38 "Prague"
+
+**NEWMAN** Twentieth Century Fox Fanfare
 
 **PIAZZOLLA** Otono Porteño
 
@@ -276,9 +289,13 @@ All works are complete unless noted otherwise.
 
 **SHOSTAKOVICH** Symphony No. 11
 
+**SILVESTRI** Suite from *Back to the Future*
+
 **SOWERBY** From the Northland Suite<br>
 &nbsp;&nbsp;&nbsp;&nbsp;III. Burnt Rock Pool<br>
 &nbsp;&nbsp;&nbsp;&nbsp;IV. The Shining Big-Sea Water
+
+**STEINER** *Casablanca* Suite
 
 **STRAUSS** Till Eulenspiegels lustige Streich
 
@@ -293,6 +310,17 @@ All works are complete unless noted otherwise.
 **WAGNER** Prelude to Act III of *Lohengrin*
 
 **WAGNER** Selections from *Götterdämmerung*
+
+**WIEDNER** Sesquialtera (world premiere)
+
+**WIER** Heroic Strokes of the Bow
+
+**WILLIAMS** Flying Theme from *E.T. (The Extra-Terrestrial)*
+
+**WILLIAMS** Suite from *Jaws*
+
+**WILLIAMS** Suite from *Star Wars*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Main Title
 
 ***
 
