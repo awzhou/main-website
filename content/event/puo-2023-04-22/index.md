@@ -8,7 +8,7 @@ location: Richardson Auditorium in Alexander Hall
 date: 2023-04-22T19:30:00.000-0500
 date_end: 2023-04-22T21:30:00.000-0500
 all_day: false
-event: "Princeton University Orchestra | 04 April 2023"
+event: "Princeton University Orchestra | 22 April 2023"
 event_url: https://music.princeton.edu/event/princeton-university-orchestra/2023-04-22/
 featured: false
 authors: []
