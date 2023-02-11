@@ -37,10 +37,10 @@ url_code: ""
 The Princeton University Orchestra presents a program featuring student soloists. This program is also being presented on Saturday, 04 March.
 
 ## Program
-**Michael Pratt** conductor
-**Adrian Rogers '23** conductor \*
-**Richard Qiu '23** piano ‡
+**Michael Pratt** conductor<br>
+**Adrian Rogers '23** conductor \*<br>
+**Richard Qiu '23** piano <sup>‡</sup>
 
-**GERSHWIN** Cuban Overture \*
-**MOZART** Piano Concerto No. 24 in C Minor, K. 491 ‡
+**GERSHWIN** Cuban Overture \*<br>
+**MOZART** Piano Concerto No. 24 in C Minor, K. 491 <sup>‡</sup><br>
 **COLERIDGE-TAYLOR** Ballade in A Minor
