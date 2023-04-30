@@ -32,7 +32,7 @@ image:
   focal_point: Right
 url_code: ""
 ---
-Opus, Princeton University's chamber music collective, presents its Spring 2023 concerts, entitled "Reflections".
+Opus, Princeton University's chamber music collective, presents its Spring 2023 concerts, entitled "Reflections". This event will be live streamed. Visit https://www.opuschamber.org/concerts for more information.
 
 ## Program
 *To be announced*
