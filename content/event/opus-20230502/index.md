@@ -3,12 +3,12 @@ abstract: ''
 slides: ""
 url_pdf: ""
 summary: Opus, Princeton University's chamber music collective, presents its Spring 2023 concert, Reflections.
-title: "Opus Presents: Reflections"
+title: "Opus Presents: Reflections (01 May)"
 location: McAlpin Rehearsal Hall, Woolworth Center
 date: 2023-05-02T15:00:00.000
 date_end: 2023-05-02T18:00:00.000
 all_day: false
-event: "Opus Presents: Reflections"
+event: "Opus Presents: Reflections (01 May)"
 event_url: https://opuschamber.org/concerts
 featured: false
 authors: []
