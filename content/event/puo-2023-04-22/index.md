@@ -34,8 +34,14 @@ image:
   focal_point: Right
 url_code: ""
 ---
-The Princeton University Orchestra presents its final program of the 2022-23 season, including Strauss’ monumental tone poem *Ein Heldenleben* (A Hero’s Life). This program is also being presented on Saturday, 23 April.
+The Princeton University Orchestra presents its final program of the 2022-23 season, including Strauss’ monumental tone poem *Ein Heldenleben* (A Hero’s Life). This program is also being presented on Sunday, 23 April.
 
 ## Program
+**MENDELSSOHN** Hebrides Overture<br>
+&nbsp&nbsp&nbsp&nbsp**Yuqi Liang** conductor<br>
+**BEETHOVEN** Triple Concerto<br>
+&nbsp&nbsp&nbsp&nbsp**Myles McKnight** violin<br>
+&nbsp&nbsp&nbsp&nbsp**Robin Park** cello<br>
+&nbsp&nbsp&nbsp&nbsp**Kimmy Shen** piano<br>
 **STRAUSS** Ein Heldenleben (A Hero's Life), Op. 40
 
