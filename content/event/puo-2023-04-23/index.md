@@ -5,8 +5,8 @@ url_pdf: ""
 summary: The Princeton University Orchestra presents its final program of the 2022-23 season.
 title: Princeton University Orchestra | 23 April 2023
 location: Richardson Auditorium in Alexander Hall
-date: 2023-04-23T19:30:00.000-0500
-date_end: 2023-04-23T21:30:00.000-0500
+date: 2023-04-23T15:00:00.000-0500
+date_end: 2023-04-23T17:00:00.000-0500
 all_day: false
 event: "Princeton University Orchestra | 23 April 2023"
 event_url: https://music.princeton.edu/event/princeton-university-orchestra/2023-04-23/
@@ -34,8 +34,14 @@ image:
   focal_point: Right
 url_code: ""
 ---
-The Princeton University Orchestra presents its final program of the 2022-23 season, including Strauss’ monumental tone poem *Ein Heldenleben* (A Hero’s Life). This program is also being presented on Friday, 22 April.
+The Princeton University Orchestra presents its final program of the 2022-23 season, including Strauss’ monumental tone poem *Ein Heldenleben* (A Hero’s Life). This program is also being presented on Saturday, 22 April.
 
 ## Program
+**MENDELSSOHN** Hebrides Overture<br>
+**Yuqi Liang** conductor<br><br<
+**BEETHOVEN** Triple Concerto<br>
+**Myles McKnight** violin<br>
+**Robin Park** cello<br>
+**Kimmy Shen** piano<br><br>
 **STRAUSS** Ein Heldenleben (A Hero's Life), Op. 40
 
