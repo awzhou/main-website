@@ -2,7 +2,7 @@
 abstract: ''
 slides: ""
 url_pdf: ""
-summary: Opus, Princeton University's chamber music collective, presents its Spring 2023 concert, Reflections.
+summary: Opus, Princeton University's chamber music collective, presents its spring 2023 concert, Reflections.
 title: "Opus Presents: Reflections (01 May)"
 location: Lee Music Room, Lewis Arts Complex
 date: 2023-05-01T15:00:00.000
@@ -32,7 +32,7 @@ image:
   focal_point: Right
 url_code: ""
 ---
-Opus, Princeton University's chamber music collective, presents its Spring 2023 concerts, entitled "Reflections". This event will be live streamed. Visit https://www.opuschamber.org/concerts for more information.
+Opus, Princeton University's chamber music collective, presents its spring 2023 concerts, entitled "Reflections". This event will be live streamed. Visit https://www.opuschamber.org/concerts for more information.
 
 ## Program
 *To be announced*
