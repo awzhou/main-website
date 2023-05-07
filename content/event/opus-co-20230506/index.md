@@ -37,7 +37,7 @@ Opus, Princeton University's chamber music collective, presents its Spring 2023 
 ## Program
 **Michael Pratt** conductor<br>
 **Opus Chamber Orchestra**<br><br>
-**STRAUSS** Metamorphosen, study for 22 solo strings, TrV 290<br>
+**STRAUSS** Metamorphosen, study for 23 solo strings, TrV 290<br>
 *Featuring soloists from Opus*<br><br>
 **BEETHOVEN** Symphony No. 6 in F Major, op. 68, "Pastorale"<br>
 &nbsp&nbsp&nbsp&nbspIV. Allegro. Gewitter, Sturm<br>
