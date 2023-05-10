@@ -31,8 +31,6 @@ All works are complete unless noted otherwise.
 **BACH** Cello Suite No. 6 in D Major, BWV 1012 (Transposed to G Major)
 
 **BARTOK** Viola Concerto<br>
-&nbsp;&nbsp;&nbsp;&nbsp;I. Moderato<br>
-&nbsp;&nbsp;&nbsp;&nbsp;II. Andante religioso
 
 **BRAHMS** Viola Sonata in F Minor, Op. 120 No. 1
 
@@ -116,11 +114,20 @@ All works are complete unless noted otherwise.
 **DVORAK** String Quartet No. 10, Op. 51<br>
 &nbsp;&nbsp;&nbsp;&nbsp;II. Dumky. (Elegia) Andante con moto
 
+**DVORAK** String Quartet No. 11 in C Major, Op. 67<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro
+
+**DVORAK** String Quartet No. 12 in F Major, Op. 96, “American”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro ma non troppo
+
 **DVORAK** String Quintet in E-flat Major, Op. 97<br>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Allegro non tanto
 
 **FAURE** Piano Quartet No. 2 in G Minor, Op. 45<br>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Allegro molto moderato
+
+**FRANCK** Piano Quintet in F Minor, CFF 121<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Molto moderato quasi lento — Allegro
 
 **HAYDN** String Quartet in C Major, Op. 20 No. 2<br>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Moderato
@@ -134,7 +141,8 @@ All works are complete unless noted otherwise.
 **HAYDN** String Quartet in B-flat Major, Op. 76 No. 4 "Sunrise"
 
 **MENDELSSOHN** String Octet in E-flat Major, Op. 20<br>
-&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro moderato ma con fuoco
+&nbsp;&nbsp;&nbsp;&nbsp;I. Allegro moderato ma con fuoco<br>
+&nbsp;&nbsp;&nbsp;&nbsp;IV. Presto
 
 **MENDELSSOHN** String Quartet in A Minor, Op. 13
 
@@ -143,6 +151,8 @@ All works are complete unless noted otherwise.
 
 **MENDELSSOHN** String Quartet in F Minor, Op. 80<br>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Allegro vivace assai
+
+**MOZART** Bassoon Quartet in G Major (adapted from the Flute Quartet), K. 285
 
 **PROKOFIEV** String Quartet No. 2 in F Major, Op. 92<br>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Allegro sostenuto
@@ -165,6 +175,8 @@ All works are complete unless noted otherwise.
 
 **SHOSTAKOVICH** String Quartet No. 7 in F-sharp Minor, op. 108
 
+**R. STRAUSS** Metamorphosen, TrV 290
+
 ***
 
 ## Orchestral Music — Viola
@@ -179,7 +191,15 @@ All works are complete unless noted otherwise.
 
 **BATES** Devil’s Radio
 
+**BEETHOVEN** Concerto for Violin, Cello, and Piano in C Major, Op. 56
+
+**BEETHOVEN** Leonore Overture No. 3, Op. 72a
+
 **BEETHOVEN** Romance for Violin and Orchestra No. 2 in F Major, Op. 50
+
+**BEETHOVEN** Symphony No. 6 in F Major, Op. 68, “Pastoral”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;IV. Allegro. Gewitter, Sturm<br>
+&nbsp;&nbsp;&nbsp;&nbsp;V. Allegretto. Hirtengesang. Frohe und dankbare Gefüle nach dem Sturm
 
 **BERLIOZ** Overture to *Benvenuto Cellini*
 
@@ -195,6 +215,8 @@ All works are complete unless noted otherwise.
 
 **BOLCOM** The New York Lights from *A View from the Bridge*
 
+**BORODIN** Polovtsian Dances from *Prince Igor*
+
 **BRAHMS** Symphony No. 2
 
 **BRAHMS** Symphony No. 4
@@ -205,6 +227,8 @@ All works are complete unless noted otherwise.
 &nbsp;&nbsp;&nbsp;&nbsp;III. Allegro giocoso, ma non troppo vivace — Poco piu presto
 
 **CHAVEZ** Sinfonia India
+
+**COLERIDGE-TAYLOR** Ballade in A Minor
 
 **COPLAND** Suite from *Appalachian Spring*
 
@@ -226,6 +250,8 @@ All works are complete unless noted otherwise.
 
 **FRANK** Concertino Cusqueno
 
+**GERSHWIN** A Cuban Overture
+
 **GOLDSMITH** Main Title from *Star Trek: The Motion Picture*
 
 **GRANT STILL** Darker America
@@ -236,6 +262,8 @@ All works are complete unless noted otherwise.
 &nbsp;&nbsp;&nbsp;&nbsp;I. Prelude
 
 **HOLMÈS** Andromède
+
+**HOLST** The Planets Suite
 
 **HOLST** St. Paul Suite
 
@@ -249,6 +277,8 @@ All works are complete unless noted otherwise.
 **LISZT** Les Preludes
 
 **MAHLER** Songs of a Wayfarer
+
+**MENDELSSOHN** Hebrides Overture
 
 **MONTGOMERY** Starburst
 
@@ -297,7 +327,9 @@ All works are complete unless noted otherwise.
 
 **STEINER** *Casablanca* Suite
 
-**STRAUSS** Till Eulenspiegels lustige Streich
+**R. STRAUSS** Ein Heldenleben
+
+**R. STRAUSS** Till Eulenspiegels lustige Streich
 
 **STRAVINSKY** The Rite of Spring
 
