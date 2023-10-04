@@ -38,7 +38,7 @@ The Princeton University Orchestra presents its final program of the 2022-23 sea
 
 ## Program
 **MENDELSSOHN** Hebrides Overture<br>
-**Yuqi Liang** conductor<br><br<
+**Yuqi Liang** conductor<br><br>
 **BEETHOVEN** Triple Concerto<br>
 **Myles McKnight** violin<br>
 **Robin Park** cello<br>
