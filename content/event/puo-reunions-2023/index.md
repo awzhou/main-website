@@ -35,16 +35,16 @@ url_code: ""
 The Princeton University Orchestra performs at Princeton University Reunions 2023.
 
 ## Program
-SCOTT KEY The Star Spangled Banner
+**SCOTT KEY** The Star Spangled Banner
 
-WAXMAN Carmen Fantasy <br> Rachel Hsu, violin
+**WAXMAN** Carmen Fantasy <br> Rachel Hsu, violin
 
-BRAHMS Hungarian Dances Nos. 5 & 6
+**BRAHMS** Hungarian Dances Nos. 5 & 6
 
-DVORAK Selections from Slavonic Dances
+**DVORAK** Selections from Slavonic Dances
 
-SOUSA The Washington Post March
+**SOUSA** The Washington Post March
 
-SOUSA Stars and Stripes Forever
+**SOUSA** Stars and Stripes Forever
 
-LANGLOTZ Old Nassau
+**LANGLOTZ** Old Nassau
