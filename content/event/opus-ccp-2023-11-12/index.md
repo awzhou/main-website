@@ -6,7 +6,7 @@ summary: Opus, Princeton University's chamber music collective, presents a colla
 title: Opus x Columbia Classical Performers | 12 November 2023
 location: 555 Lerner Hall
 date: 2023-11-12T15:30:00.000
-date_end: 2023-1-12T16:30:00.000
+date_end: 2023-11-12T16:30:00.000
 all_day: false
 event: "Opus x Columbia Classical Performers | 12 November 2023"
 event_url: https://opuschamber.org
