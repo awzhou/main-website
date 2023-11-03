@@ -39,7 +39,7 @@ The Princeton University Orchestra presents its winter concerts alongside the Pr
 ## Program
 **Michael Pratt** conductor<br>
 **Aster Zhang** conductor\*<br>
-**Gabriel Crouch** conductor+
+**Gabriel Crouch** conductor+<br>
 **Margaret Kampmeier** piano <br>
 **Geoff Burleson** piano <br>
 **Princeton University Orchestra**<br>
@@ -48,6 +48,6 @@ The Princeton University Orchestra presents its winter concerts alongside the Pr
 
 **MOZART** Overture to *The Magic Flute*\*<br>
 **TAILLEFERRE** Concerto for Two Pianos, Four Saxes, Chorus, and Orchestra<br>
-**BRAHMS** Two Double Choir Motets+
+**BRAHMS** Two Double Choir Motets+<br>
 **BRAHMS** Symphony No. 3 in F major, op. 90
 
