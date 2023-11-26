@@ -22,7 +22,7 @@ address:
   country: United States
 links:
   - url: https://music.princeton.edu/event/princeton-university-orchestra-and-glee-club-concert/2023-12-01/
-    name: Tickets
+    name: Book
   - url: https://orchestra.princeton.edu
     name: About PUO
 publishDate: 2023-11-01T03:19:22.733Z
