@@ -6,8 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: dark
   theme_night: dark
+  color: zinc
   font: albert
   font_size: L
 
