@@ -2,7 +2,7 @@
 abstract: ''
 slides: ""
 url_pdf: ""
-summary: Opus, Princeton University's chamber music collective, presents its fall 2023 concert.
+summary: "Opus, Princeton University's chamber music collective, presents its fall 2023 concert."
 title: Opus Presents: Evergreen
 location: McAlpin Rehearsal Hall, Woolworth Center
 date: 2023-12-11T14:00:00.000
