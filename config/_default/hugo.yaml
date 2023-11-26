@@ -17,12 +17,6 @@ defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
-## MODULES
-############################
-
-
-
-############################
 ## ADVANCED
 ############################
 
@@ -44,7 +38,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 100
+  quality: 75
   anchor: smart
 timeout: 600000
 taxonomies:
@@ -63,3 +57,9 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
+minify:
+  _merge: deep
