@@ -21,10 +21,10 @@ address:
   postcode: "08544"
   country: United States
 links:
-  - url: https://opuschamber.org
-    name: About Opus
   - url: https://tickets.princeton.edu
     name: Book
+  - url: https://opuschamber.org
+    name: About Opus
 publishDate: 2023-11-25T22:40:31.733Z
 tags: []
 projects:
