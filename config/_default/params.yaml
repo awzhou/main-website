@@ -44,7 +44,7 @@ footer:
   copyright:
     notice: '© {year} Albert W. Zhou. All rights reserved.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
