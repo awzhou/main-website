@@ -42,6 +42,6 @@ highlight_name: true
 ---
 I'm an undergraduate student concentrating in molecular biology and working towards a certificate in viola performance at Princeton University. In my free time, I enjoy shoddily sight-reading music, taking lengthy walks, and entertaining various whimsical and short-lived obsessions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Albert Zhou Website.pdf" "newtab" >}}résumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Albert Zhou Website.pdf" "newtab" >}}résumé{{< /staticref >}}
 
 {{< icon name="camera" pack="fas" >}} Xuefei Gao
