@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Albert W. Zhou. All rights reserved.'
     license:
       enable: true
       allow_derivatives: false
@@ -52,34 +52,21 @@ footer:
 # Localization
 
 locale:
-  date_format: '02 Jan 2006'
+  date_format: '2 Jan 2006'
   time_format: '15.04 PM'
   address_format: en-us
-
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
-
-# Security
-
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
 
 # Contact (edit or remove options as required)
 
 # email: me@albertwzhou.com
 # phone: 888 888 88 88
-address:
+#address:
  # street: 450 Serra Mall
-  city: Princeton
-  region: NJ
-  postcode: '08544'
-  country: United States
-  country_code: US
+ # city: Princeton
+ # region: NJ
+  #postcode: '08544'
+ # country: United States
+  #country_code: US
 # coordinates:
   # latitude: '37.4275'
   # longitude: '-122.1697'
@@ -87,8 +74,8 @@ address:
 # office_hours:
  #  - 'Monday 10:00 to 13:00'
  #  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com/albertwzhou'
-contact_links:
+#appointment_url: 'https://calendly.com/albertwzhou'
+#contact_links:
   # - icon: twitter
     # icon_pack: fab
    # name: DM Me
@@ -107,66 +94,40 @@ contact_links:
     #link: 'https://discourse.gohugo.io'
 
 # Site features
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+# Site features
+
 features:
-  highlight: true
-  highlight_languages:
-    - r
-  math: false
-  diagram: false
-  privacy_pack: false
-  edit_page:
-    repo_url: ''
-    content_dir: ''
-    repo_branch: main
-    editable:
-      page: false
-      post: false
-      book: false
-  show_related:
-    book: true
-    page: false
-    post: true
-    project: true
-    publication: true
-    event: true
-  reading_time: true
-  section_pager: false
-  docs_section_pager: true
-  sharing: true
-  copyright_license:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
+  math:
     enable: false
-    allow_derivatives: false
-    share_alike: true
-    allow_commercial: false
-    notice: 'This work is licensed under {license}'
-  abstract_length: 135
-  plugins_js: []
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/awzhou/main-website'
+    content_dir: content
+    branch: main
   avatar:
     gravatar: false
     shape: circle
-  publications:
-    date_format: January 2006
-    citation_style: apa
-  projects:
-    post_view: 2
-    publication_view: 2
-    talk_view: 2
-  breadcrumb:
-    page_types:
-      book: true
-  comments:
+  comment:
     provider: ''
-    commentable:
-      post: true
-      book: true
-      project: true
-      publication: true
-      event: true
     disqus:
       shortname: ''
       show_count: true
     commento:
       url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
     provider: wowchemy
     algolia:
@@ -178,15 +139,21 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
-  marketing:
-    google_analytics: ''
-    google_tag_manager: ''
-    google_site_verification: ''
-    baidu_site_verification: ''
-    baidu_tongji: ''
+
+# Extensions
+
+extensions:
   cms:
-    branch: master
+    branch: main
     local_backend: false
+  academicons:
+    enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
   icon:
     pack:
       ai: true
