@@ -25,7 +25,7 @@ links:
     name: Book
   - url: https://opuschamber.org
     name: About Opus
-publishDate: 2023-11-29T13:45:00.733Z
+publishDate: 2023-11-20T13:45:00.733Z
 tags: []
 projects:
   - opus
