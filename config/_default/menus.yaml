@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Events
+  - name: "What's On"
     identifier: 'events'
     weight: 20
   - name: Upcoming Events
