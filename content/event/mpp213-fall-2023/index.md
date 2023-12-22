@@ -34,10 +34,10 @@ url_code: ""
 Chamber music groups enrolled in MPP213 (Projects in Instrumental Performance: Chamber Music) for the fall 2023 term present their term-end recital.
 
 ## Program
-**Tienne Yu** and **Sean Park** violin
-**Albert Zhou** viola
-**Jack Gallahan** cello
-**Tomoko Fujita** instructor
+**Tienne Yu** and **Sean Park** violin<br>
+**Albert Zhou** viola<br>
+**Jack Gallahan** cello<br>
+**Tomoko Fujita** instructor<br>
 
 **BEETHOVEN** String Quartet No. 14 in C-sharp minor, op. 131
 
