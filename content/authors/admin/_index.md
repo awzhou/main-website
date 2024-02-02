@@ -1,7 +1,7 @@
 ---
 title: Albert Zhou
 role: 
-bio: I'm an undergraduate student concentrating in molecular biology and working towards a certificate in viola performance at Princeton University. In my free time, I enjoy shoddily sight-reading music, taking lengthy walks, and entertaining various whimsical and short-lived obsessions.
+bio: I'm an undergraduate student concentrating in molecular biology and working towards a certificate in viola performance at Princeton University. In my free time, I enjoy shoddily sight-reading music, taking lengthy walks, and entertaining various whimsical and (at times) short-lived obsessions.
 interests: []
 social:
   - icon: envelope
@@ -33,14 +33,11 @@ education:
     - course: Semester Abroad for Viola Performance
       institution: Royal College of Music, London, UK
       year: Autumn 2022
-    - course: High School Diploma
-      institution: South Pasadena High School, South Pasadena, CA
-      year: 2020
 email: ""
 superuser: true
 highlight_name: true
 ---
-I'm an undergraduate student concentrating in molecular biology and working towards a certificate in viola performance at Princeton University. In my free time, I enjoy shoddily sight-reading music, taking lengthy walks, and entertaining various whimsical and short-lived obsessions.
+I'm an undergraduate student concentrating in molecular biology and working towards a certificate in viola performance at Princeton University. In my free time, I enjoy shoddily sight-reading music, taking lengthy walks, and entertaining various whimsical and (at times) short-lived obsessions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Albert Zhou Website.pdf" "newtab" >}}résumé{{< /staticref >}}
 
