@@ -36,5 +36,5 @@ url_code: ""
 Violist Albert Zhou '24 presents a senior recital in partial fulfilment of the requirements for the Certificate in Music Performance.
 
 ## Program
-**Albert Zhou** viola
+**Albert Zhou** viola<br><br>
 *Final program and other performers to be announced*
