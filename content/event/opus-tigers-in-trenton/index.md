@@ -2,7 +2,7 @@
 abstract: ''
 slides: ""
 url_pdf: ""
-summary: "Arts groups from Princeton University perform at Trenton Central High School"
+summary: "Performing arts groups from Princeton University perform at Trenton Central High School."
 title: "Tigers in Trenton"
 location: Trenton Central High School
 date: 2024-02-09T13:00:00.000
