@@ -5,7 +5,7 @@ url_pdf: ""
 summary: Trenton Arts at Princeton presents its fifth anniversary showcase featuring the Trenton Youth Dancers, Orchestra, Singers, and Theater.
 title: Trenton Arts at Princeton Fifth Anniversary Showcase
 location: Richardson Auditorium in Alexander Hall
-date: 2024-04-23T16:00:00.000
+date: 2024-04-06T16:00:00.000
 date_end: 2024-04-06T17:30:00.000
 all_day: false
 event: "Trenton Arts at Princeton Fifth Anniversary Showcase"
