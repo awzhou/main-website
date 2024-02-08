@@ -48,7 +48,6 @@ The Princeton University Orchestra presents its concerto concerts with a collabo
 <br><br>
 
 **SCHUMANN** Cello Concerto in A minor, op. 129<br>
-**TAILLEFERRE** Concerto for Two Pianos, Four Saxes, Chorus, and Orchestra<br>
 **VAUGHAN-WILLIAMS** Concerto for Bass Tuba<br>
 **TCHAIKOVSKY** Violin Concerto in D Major, op. 35<br>
 Collaboration with the African Music Ensemble (Olivier Tarpaga, director)
