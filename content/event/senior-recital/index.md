@@ -5,8 +5,8 @@ url_pdf: ""
 summary: "Violist Albert Zhou '24 presents a senior recital in partial fulfilment of the requirements for the Certificate in Music Performance."
 title: "Senior Recital | Albert Zhou, viola"
 location: Taplin Auditorium, Fine Hall
-date: 2024-04-14T00:00:00.000
-date_end: 2024-04-14T23:59:59.000
+date: 2024-04-14T15:00:00.000
+date_end: 2024-04-14T16:30:30.000
 all_day: false
 event: "Senior Recital | Albert Zhou, viola"
 event_url: https://music.princeton.edu/
@@ -36,5 +36,14 @@ url_code: ""
 Violist Albert Zhou '24 presents a senior recital in partial fulfilment of the requirements for the Certificate in Music Performance.
 
 ## Program
-**Albert Zhou** viola<br><br>
-*Final program and other performers to be announced*
+**Albert Zhou** viola<br>
+**Yevgeny Morozov** piano<br>
+**Cherry Ge** piano<br>
+**Haram Kim** violin<br><br>
+
+**REGER** Suite for Solo Viola in G minor, op. 131d no. 1<br>
+**SCHUMANN** Märchenbilder, op. 131<br>
+**PÄRT** Fratres<br>
+**BRAHMS** Sonata for Viola and Piano in F minor, op. 120 no. 1<br>
+**SHOSTAKOVICH** Five Pieces for Two Violins and Piano
+
