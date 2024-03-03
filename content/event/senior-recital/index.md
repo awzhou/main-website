@@ -42,7 +42,7 @@ Violist Albert Zhou '24 presents a senior recital in partial fulfilment of the r
 **Haram Kim** violin<br><br>
 
 **REGER** Suite for Solo Viola in G minor, op. 131d no. 1<br>
-**SCHUMANN** Märchenbilder, op. 131<br>
+**SCHUMANN** Märchenbilder, op. 113<br>
 **PÄRT** Fratres<br>
 **BRAHMS** Sonata for Viola and Piano in F minor, op. 120 no. 1<br>
 **SHOSTAKOVICH** Five Pieces for Two Violins and Piano
