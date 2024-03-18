@@ -6,6 +6,6 @@ google_fonts = "family=EB+Garamond:wght@700&family=Jost:wght@400;700&family=Fira
 
 # Font families
 heading_font = "Alegreya"
-body_font = "Hammersmith One"
-nav_font = "Hammersmith One"
+body_font = "Jost"
+nav_font = "Jost"
 mono_font = "Fira Mono"
