@@ -9,7 +9,7 @@ date: 2024-04-14T15:00:00.000
 date_end: 2024-04-14T16:30:30.000
 all_day: false
 event: "Senior Recital | Albert Zhou, viola"
-event_url: https://music.princeton.edu/
+event_url: https://music.princeton.edu/event/certificate-albert-zhou-viola/
 featured: false
 authors: []
 url_video: ""
@@ -23,6 +23,8 @@ address:
 links:
   - url: https://music.princeton.edu
     name: Princeton Department of Music
+  - url: https://bc.princeton.edu/live/taplin/
+    name: Live stream
 publishDate: 2024-01-01T13:45:00.733Z
 tags: []
 projects:
@@ -31,8 +33,6 @@ image:
   focal_point: Right
 url_code: ""
 ---
-**Time to be announced**
-
 Violist Albert Zhou '24 presents a senior recital in partial fulfilment of the requirements for the Certificate in Music Performance.
 
 ## Program
