@@ -27,11 +27,14 @@ education:
     - course: Bachelor of Arts in Molecular Biology
       institution: Princeton University, Princeton, NJ
       year: expected 2024
-    - course: Certificate in Viola Performance
+    - course: Certificate (minor) in Viola Performance
       institution: Princeton University, Princeton, NJ
       year: expected 2024
     - course: Semester Abroad for Viola Performance
       institution: Royal College of Music, London, UK
+      year: Autumn 2022
+    - course: High School Diploma
+      institution: South Pasadena High School, South Pasadena, CA
       year: Autumn 2022
 email: ""
 superuser: true
