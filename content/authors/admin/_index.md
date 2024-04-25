@@ -35,7 +35,7 @@ education:
       year: Autumn 2022
     - course: High School Diploma
       institution: South Pasadena High School, South Pasadena, CA
-      year: Autumn 2022
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
