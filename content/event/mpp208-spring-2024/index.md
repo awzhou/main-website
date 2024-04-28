@@ -40,5 +40,5 @@ Students enrolled in MPP208 (Music for Large Chamber Ensemble Drawn from Less-Pe
 **TOUSSAINT NGOZI SANTICOLA JONES '25** Tachycineta Bicolor (world premiere)<br>
 **MOLLY TRUEMAN '24** spring aligning (world premier)<br>
 **MAHLER** Symphony No. 4 in G major (arr. Stein)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;III. Ruhevoll, poco adagio
+&nbsp;&nbsp;&nbsp;&nbsp;III. Ruhevoll, poco adagio<br>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Bedächtig, nicht eilen
