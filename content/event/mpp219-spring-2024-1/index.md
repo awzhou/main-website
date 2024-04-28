@@ -9,7 +9,7 @@ date: 2024-05-04T19:30:00.000
 date_end: 2024-05-04T22:30:00.000
 all_day: false
 event: "MPP219 Course Performance | 04 May 2024"
-event_url: https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013774
+event_url: https://music.princeton.edu/event/mpp-219-mozarts-the-magic-flute/2024-05-04/
 featured: false
 authors: []
 url_video: ""
@@ -23,8 +23,6 @@ address:
 links:
   - url: https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013774
     name: Course Description
-  - url: https://music.princeton.edu/event/mpp-219-mozarts-the-magic-flute/2024-05-04/
-    name: More information
 publishDate: 2024-01-01T13:45:00.733Z
 tags: []
 projects:
@@ -33,9 +31,7 @@ image:
   focal_point: Right
 url_code: ""
 ---
-Students enrolled in MPP219 (Opera Performance) present a fully-staged production of Mozart's opera *The Magic Flute*. This production is also being presented on Sunday, 05 May, at 3pm.
-
-*Time to be announced.*
+Students enrolled in MPP219 (Opera Performance) present a fully-staged production of Mozart's opera *The Magic Flute*. This production is also being presented on Sunday, 05 May, at 15.00.
 
 ## Program
 **Ruth Ochs** conductor and instructor<br>
