@@ -9,7 +9,7 @@ date: 2024-04-29T15:00:00.000
 date_end: 2024-04-29T16:30:00.000
 all_day: false
 event: "MPP208 Course Performance"
-event_url: https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=014563
+event_url: https://music.princeton.edu/event/mpp-208-players/
 featured: false
 authors: []
 url_video: ""
@@ -36,4 +36,9 @@ Students enrolled in MPP208 (Music for Large Chamber Ensemble Drawn from Less-Pe
 ## Program
 **Michael Pratt** conductor and instructor<br><br>
 
-*Program to be announced*
+**DEBUSSY** Prelude to the Afternoon of a Faun (arr. Schoenberg)<br>
+**TOUSSAINT NGOZI SANTICOLA JONES '25** Tachycineta Bicolor (world premiere)<br>
+**MOLLY TRUEMAN '24** spring aligning (world premier)<br>
+**MAHLER** Symphony No. 4 in G major (arr. Stein)<br>
+&nbsp&nbsp&nbsp&nbsp&nbspIII. Ruhevoll, poco adagio
+&nbsp&nbsp&nbsp&nbsp&nbspI. Bedächtig, nicht eilen
