@@ -5,11 +5,11 @@ url_pdf: ""
 summary: "Students enrolled in MPP219 present a production of Mozart's *The Magic Flute*."
 title: "MPP219 Course Performance | 05 May 2024"
 location: Lee Music Room, Lewis Arts Complex
-date: 2024-05-05T00:00:00.000
-date_end: 2024-05-05T23:59:59.000
+date: 2024-05-05T15:00:00.000
+date_end: 2024-05-05T18:00:00.000
 all_day: false
 event: "MPP219 Course Performance | 05 May 2024"
-event_url: https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013774
+event_url: https://music.princeton.edu/event/mpp-219-mozarts-the-magic-flute/2024-05-05/
 featured: false
 authors: []
 url_video: ""
@@ -31,9 +31,7 @@ image:
   focal_point: Right
 url_code: ""
 ---
-Students enrolled in MPP219 (Opera Performance) present a fully-staged production of Mozart's opera *The Magic Flute*. This production is also being presented on Saturday, 04 May.
-
-*Time to be announced.*
+Students enrolled in MPP219 (Opera Performance) present a fully-staged production of Mozart's opera *The Magic Flute*. This production is also being presented on Saturday, 04 May, at 19.30.
 
 ## Program
 **Ruth Ochs** conductor and instructor<br>
