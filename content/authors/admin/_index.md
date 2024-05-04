@@ -1,5 +1,7 @@
 ---
-title: Albert Zhou
+title: Albert W. Zhou
+first_name: Albert
+last_name: Zhou
 role: 
 bio: I'm an undergraduate student concentrating in molecular biology and working towards a certificate in viola performance at Princeton University. In my free time, I enjoy shoddily sight-reading music, taking lengthy walks, and entertaining various whimsical and (at times) short-lived obsessions.
 interests: []
