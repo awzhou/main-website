@@ -5,7 +5,7 @@
 
 title: Albert W. Zhou # Website name
 baseurl: 'https://albertwzhou.com/' # Website URL
-copyright: '© {year} Albert Zhou. All rights reserved' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Albert W. Zhou. All rights reserved' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
