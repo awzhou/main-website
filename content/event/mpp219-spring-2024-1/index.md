@@ -6,7 +6,7 @@ summary: "Students enrolled in MPP219 present a production of Mozart's *The Magi
 title: "MPP219 Course Performance | 04 May 2024"
 location: Lee Music Room, Lewis Arts Complex
 date: 2024-05-04T19:30:00.000-0500
-date_end: 2024-05-04T22:30:00.000
+date_end: 2024-05-04T22:30:00.000-0500
 all_day: false
 event: "MPP219 Course Performance | 04 May 2024"
 event_url: https://music.princeton.edu/event/mpp-219-mozarts-the-magic-flute/2024-05-04/
