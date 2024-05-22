@@ -35,10 +35,11 @@ url_code: ""
 The Princeton University Orchestra performs at Princeton Stadium during Princeton University Reunions 2024 Fireworks Concert.
 
 ## Program
-**Adrian Rogers** conductor
-**Elliott Kim** cello
-**Sara Shiff** soprano
+**Adrian Rogers** conductor<br>
+**Elliott Kim** cello<br>
+**Sara Shiff** soprano<br>
 **Princeton University Orchestra and alumni**
+
 
 **SCOTT KEY** The Star Spangled Banner
 
