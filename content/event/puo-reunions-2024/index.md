@@ -5,8 +5,8 @@ url_pdf: ""
 summary: The Princeton University Orchestra performs at Princeton University Reunions 2024.
 title: Princeton University Orchestra at Reunions 2024
 location: Princeton Stadium
-date: 2023-05-27T20:00:00.000-0400
-date_end: 2023-05-27T21:00:00.000-0400
+date: 2024-05-25T20:00:00.000-0400
+date_end: 2024-05-25T21:00:00.000-0400
 all_day: false
 event: "Princeton University Orchestra at Reunions 2024"
 event_url: https://reunions.princeton.edu
