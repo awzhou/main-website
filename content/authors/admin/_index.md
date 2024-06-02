@@ -3,7 +3,7 @@ title: Albert W. Zhou
 first_name: Albert
 last_name: Zhou
 role: 
-bio: I'm an undergraduate student concentrating in molecular biology and working towards a certificate in viola performance at Princeton University. In my free time, I enjoy shoddily sight-reading music, taking lengthy walks, and entertaining various whimsical and (at times) short-lived obsessions.
+bio: I'm a research technician at Caltech. In my free time, I enjoy playing the viola, taking lengthy walks, and entertaining various whimsical — and, at times, transient — interests.
 interests: []
 social:
   - icon: envelope
@@ -22,16 +22,20 @@ social:
     icon_pack: fas
     link: /uploads/Albert Zhou Website.pdf
 organizations:
-  - name: Princeton University
-    url: https://www.princeton.edu/
+  - name: Parker Lab
+    url: https://beetles.caltech.edu/
+  - name: Biology and Biological Engineering
+    url: https://bbe.caltech.edu/
+  - name: California Institute of Technology
+    url: https://www.caltech.edu/
 education:
   courses:
-    - course: Bachelor of Arts in Molecular Biology
+    - course: Bachelor of Arts in Molecular Biology, magna cum laude
       institution: Princeton University, Princeton, NJ
-      year: expected 2024
+      year: 2024
     - course: Certificate (minor) in Viola Performance
       institution: Princeton University, Princeton, NJ
-      year: expected 2024
+      year: 2024
     - course: Semester Abroad for Viola Performance
       institution: Royal College of Music, London, UK
       year: Autumn 2022
@@ -42,7 +46,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm an undergraduate student concentrating in molecular biology and working towards a certificate in viola performance at Princeton University. In my free time, I enjoy shoddily sight-reading music, taking lengthy walks, and entertaining various whimsical and (at times) short-lived obsessions.
+I'm a research technician at Caltech. In my free time, I enjoy playing the viola, taking lengthy walks, and entertaining various whimsical — and, at times, transient — interests.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Albert Zhou Website.pdf" "newtab" >}}résumé{{< /staticref >}}
 
