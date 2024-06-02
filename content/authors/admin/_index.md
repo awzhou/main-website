@@ -50,4 +50,4 @@ I'm a research technician at Caltech. In my free time, I enjoy playing the viola
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Albert Zhou Website.pdf" "newtab" >}}résumé{{< /staticref >}}
 
-{{< icon name="camera" pack="fas" >}} Xuefei Gao
+{{< icon name="camera" pack="fas" >}} Tienne Yu
