@@ -8,14 +8,14 @@ subtitle: null
 content:
   appointment_url: 'https://calendly.com/albertwzhou'
   address:
-    city: Princeton
-    region: NJ
-    postcode: '08544'
+    city: Pasadena
+    region: CA
+    postcode: '91125'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '34.1375'
+    longitude: '-118.125'
   # Automatically link email and phone or display as text?
   autolink: true
   # Email form provider
