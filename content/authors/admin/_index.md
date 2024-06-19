@@ -1,5 +1,5 @@
 ---
-title: Albert W. Zhou<br>(he/him)
+title: Albert W. Zhou (he/him)
 first_name: Albert
 last_name: Zhou
 role: Functional Genetic Technician
