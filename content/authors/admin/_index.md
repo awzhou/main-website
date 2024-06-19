@@ -2,7 +2,7 @@
 title: Albert W. Zhou
 first_name: Albert
 last_name: Zhou
-role: Functional Genetic Technician
+role: (he/him)<br>Functional Genetic Technician
 bio: I'm a research technician at Caltech. In my free time, I enjoy playing the viola, taking lengthy walks, and entertaining various whimsical — and, at times, transient — interests.
 interests: []
 social:
