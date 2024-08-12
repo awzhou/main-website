@@ -21,6 +21,8 @@ address:
   postcode: "91106"
   country: United States
 links:
+  - url: https://www.eventbrite.com/e/alumni-concert-tickets-927416065417?aff=oddtdtcreator
+    name: Book a free ticket
   - url: https://pasadenaconservatory.org
     name: About PCM
   - url: https://pasadenaconservatory.org/event/alumni-concert-2/
