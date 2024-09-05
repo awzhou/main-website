@@ -26,7 +26,7 @@ links:
   - url: https://bc.princeton.edu/live/taplin/
     name: Live stream
 publishDate: 2024-01-01T13:45:00.733Z
-tags: []
+tags: videos
 projects:
 image:
   caption: ""
@@ -49,4 +49,8 @@ Violist Albert Zhou '24 presents a senior recital in partial fulfilment of the r
 
 ## Video
 {{< youtube 7IRswMWyiFE >}} 
+{{< youtube yF1-ZNGrBWk >}}
+{{< youtube FrtYMLSAnoM >}}
+{{< youtube RgX7mmNmo70 >}}
+{{< youtube kZq5jdoubPM >}}
 
