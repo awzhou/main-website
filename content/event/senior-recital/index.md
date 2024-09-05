@@ -47,3 +47,6 @@ Violist Albert Zhou '24 presents a senior recital in partial fulfilment of the r
 **BRAHMS** Sonata for Viola and Piano in F minor, op. 120 no. 1<br>
 **SHOSTAKOVICH** Five Pieces for Two Violins and Piano
 
+## Video
+{{< youtube 7IRswMWyiFE >}} 
+
