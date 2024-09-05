@@ -7,6 +7,7 @@ reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
+show_breadcrumb: true
 
 # Optional header image (relative to `assets/media/` folder).
 header:
