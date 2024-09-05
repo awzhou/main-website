@@ -23,11 +23,7 @@ removePathAccents: true
 cascade:
   # Configure blog posts
   - _target:
-      path: /post/**
-    reading_time: true
-    show_breadcrumb: true
-  - _target:
-      path: /event/**
+      path: /**
     reading_time: true
     show_breadcrumb: true
 
