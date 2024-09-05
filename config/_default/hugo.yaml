@@ -26,9 +26,6 @@ cascade:
       path: /post/**
     reading_time: true
     show_breadcrumb: true
-
-cascade:
-  # Configure blog posts
   - _target:
       path: /event/**
     reading_time: true
