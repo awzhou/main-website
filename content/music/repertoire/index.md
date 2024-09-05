@@ -1,6 +1,6 @@
 ---
 title: Repertoire
-summary: My repertoire list
+summary: View my repertoire list.
 date: "2022-03-10T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
