@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: "Videos"
-subtitle:
+title: "Performance videos"
+subtitle: Visit event pages to view videos
 
 content:
   # Page type to display. E.g. post, event, publication...
