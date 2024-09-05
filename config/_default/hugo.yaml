@@ -20,8 +20,19 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
-show_breadcrumb: true
-reading_time: true
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /post/**
+    reading_time: true
+    show_breadcrumb: true
+
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /event/**
+    reading_time: true
+    show_breadcrumb: true
 
 enableGitInfo: false
 summaryLength: 30
