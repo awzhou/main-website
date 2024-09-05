@@ -28,14 +28,14 @@ main:
     identifier: 'research'
     weight: 50
   - name: "Music"
-    identifier: 'music'
+    identifier: 'music pages'
     weight: 60
   - name: 'Repertoire List'
-    parent: 'music'
+    parent: 'music pages'
     url: 'music/repertoire/'
     weight: 10
   - name: 'Media'
-    parent: 'music'
+    parent: 'music pages'
     url: 'music/media/'
     weight: 20
 
