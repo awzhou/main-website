@@ -20,6 +20,9 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
+show_breadcrumb: true
+reading_time: true
+
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
