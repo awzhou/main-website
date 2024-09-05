@@ -25,17 +25,16 @@ main:
     url: '#contact'
     weight: 40
   - name: "Research"
-    identifier: 'research'
     weight: 50
   - name: "Music"
-    identifier: 'music pages'
+    identifier: 'music'
     weight: 60
   - name: 'Repertoire List'
-    parent: 'music pages'
+    parent: 'music'
     url: 'music/repertoire/'
     weight: 10
   - name: 'Media'
-    parent: 'music pages'
+    parent: 'music'
     url: 'music/media/'
     weight: 20
 
