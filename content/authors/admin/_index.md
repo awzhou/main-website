@@ -51,4 +51,6 @@ I'm a research technician at Caltech. In my free time, I enjoy playing the viola
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Albert Zhou Website.pdf" "newtab" >}}résumé{{< /staticref >}}
 
+{{< cta cta_text={{< icon name="download" pack="fas" >}}"Download my résumé" cta_link="/uploads/Albert Zhou Website.pdf" cta_new_tab="true" >}}
+
 {{< icon name="camera" pack="fas" >}} Tienne Yu
