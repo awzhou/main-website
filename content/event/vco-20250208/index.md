@@ -38,8 +38,8 @@ The Vicente Chamber Orchestra presents its second concert of the 2024–25 seaso
 
 ## Program
 **Zain Khan** conductor<br>
-**Andrew Sords** violin
-**John Walz** cello
+**Andrew Sords** violin<br>
+**John Walz** cello<br>
 **Vicente Chamber Orchestra**
 <br><br>
 
