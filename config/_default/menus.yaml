@@ -25,6 +25,7 @@ main:
     url: '#contact'
     weight: 40
   - name: "Research"
+    url: 'research'
     weight: 50
   - name: "Music"
     identifier: 'music'
