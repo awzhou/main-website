@@ -15,3 +15,5 @@ header:
 ---
 
 My repertoire was once listed here as a webpage, but due to the significant amount of additional work required to maintain both a PDF and webpage version, my repertoire list is now available only as a PDF document.
+
+Please note that the automatically generated 'last updated' date only reflects changes made to this webpage. It does not update when a new version of the linked PDF document is uploaded.
