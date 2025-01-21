@@ -3,7 +3,7 @@ abstract: ''
 slides: ""
 url_pdf: ""
 summary: The Vicente Chamber Orchestra presents its second concert of the 2024–25 season.
-title: Vicente Chamber Orchestra | 08 February 2025
+title: Vicente Chamber Orchestra | 08 February 2025 **\*CANCELLED\***
 location: The Eli and Edythe Broad Stage
 date: 2025-02-08T19:30:00.000-0800
 date_end: 2025-02-08T21:30:00.000-0800
@@ -34,6 +34,8 @@ image:
   focal_point: Right
 url_code: ""
 ---
+**This performance has been cancelled due to the LA area wildfires.**
+
 The Vicente Chamber Orchestra presents its second concert of the 2024–25 season.
 
 ## Program
@@ -43,7 +45,7 @@ The Vicente Chamber Orchestra presents its second concert of the 2024–25 seaso
 **Vicente Chamber Orchestra**
 <br><br>
 
+**MOZART** Overture from *Idomeneo*<br>
 **BRAHMS** Double Concerto in A minor, op. 102<br>
-**SCHUBERT** Symphony No. 5<br>
-*Additional piece to be announced.*
+**BEETHOVEN** Symphony No. 2<br>
 
