@@ -3,7 +3,7 @@ abstract: ''
 slides: ""
 url_pdf: ""
 summary: The Vicente Chamber Orchestra presents its second concert of the 2024–25 season.
-title: Vicente Chamber Orchestra | 08 February 2025 **\*CANCELLED\***
+title: Vicente Chamber Orchestra | 08 February 2025 — *CANCELLED*
 location: The Eli and Edythe Broad Stage
 date: 2025-02-08T19:30:00.000-0800
 date_end: 2025-02-08T21:30:00.000-0800
@@ -35,6 +35,8 @@ image:
 url_code: ""
 ---
 **This performance has been cancelled due to the LA area wildfires.**
+
+---
 
 The Vicente Chamber Orchestra presents its second concert of the 2024–25 season.
 
