@@ -6,7 +6,7 @@ summary: The Pasadena Symphony presents the opening concert of its 2025–26 sea
 title: Pasadena Symphony Classics Series | 08 November 2025 (Evening)
 location: Ambassador Auditorium
 date: 2025-11-08T20:00:00.000-0700
-date_end: 2025-10-19T22:00:00.000-0700
+date_end: 2025-11-08T22:00:00.000-0700
 all_day: false
 event: "Pasadena Symphony Classics Series | 08 November 2025 (Evening)"
 event_url: https://pasadenasymphony-pops.org/
