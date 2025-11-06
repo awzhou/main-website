@@ -3,7 +3,7 @@ title: Albert W. Zhou
 first_name: Albert
 last_name: Zhou
 role: (he/him)
-bio: I'm a research technician at Caltech developing CRISPR-based gene editing tools in rove beetles. In my free time, I enjoy playing the viola, taking lengthy walks, riding and learning about public transportation, and entertaining various whimsical — and sometimes transient — interests.
+bio: I'm a research staff member at Caltech developing CRISPR-based gene editing tools in rove beetles. In my free time, I enjoy playing the viola, taking lengthy walks, riding and learning about public transportation, and entertaining various whimsical — and sometimes transient — interests.
 interests: []
 social:
   - icon: envelope
@@ -22,7 +22,7 @@ social:
     icon_pack: fas
     link: /uploads/Albert Zhou Website.pdf
 organizations:
-  - name: Functional Genetic Technician
+  - name: Functional Genetic Technician & Lab Manager
   - name: Parker Lab
     url: https://beetles.caltech.edu/
   - name: Division of Biology and Biological Engineering
@@ -47,7 +47,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm a research technician at Caltech developing CRISPR-based gene editing tools in rove beetles. In my free time, I enjoy playing the viola, taking lengthy walks, riding and learning about public transportation, and entertaining various whimsical — and sometimes transient — interests.
+I'm a research staff member at Caltech developing CRISPR-based gene editing tools in rove beetles. In my free time, I enjoy playing the viola, taking lengthy walks, riding and learning about public transportation, and entertaining various whimsical — and sometimes transient — interests.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Albert Zhou Website.pdf" "newtab" >}}CV{{< /staticref >}}
 
