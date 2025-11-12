@@ -38,11 +38,11 @@ The Pasadena Symphony presents the opening concert of its 2025–26 season. This
 
 ## Program
 **Brett Mitchell** conductor<br>
-**Orion Weiss** harpsichord<br>
+**Orion Weiss** piano<br>
 **Pasadena Symphony**
 <br><br>
 
 **JIM SELF** Tour de Force<br>
-**RAVEL** Piano Concerto in G major
+**RAVEL** Piano Concerto in G major<br>
 **BERLIOZ** Symphonie Fantastique
 
