@@ -40,9 +40,6 @@ education:
     - course: Semester Abroad for Viola Performance
       institution: Royal College of Music, London, UK
       year: Autumn 2022
-    - course: High School Diploma
-      institution: South Pasadena High School, South Pasadena, CA
-      year: 2020
 email: ""
 superuser: true
 highlight_name: true
